@@ -1,0 +1,200 @@
+services:
+
+  # ── Workers ─────────────────────────────────────────────────────────────────
+  # Each container processes 50 rows independently.
+  # Set PROXY_URL_N per worker to route each container through a different IP
+  # (without proxies all containers share the host's outgoing IP).
+
+  worker_0:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=0
+      - END_ROW=50
+      - WORKER_ID=0
+      - PROXY_URL=${PROXY_URL_0:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_1:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=50
+      - END_ROW=100
+      - WORKER_ID=1
+      - PROXY_URL=${PROXY_URL_1:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_2:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=100
+      - END_ROW=150
+      - WORKER_ID=2
+      - PROXY_URL=${PROXY_URL_2:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_3:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=150
+      - END_ROW=200
+      - WORKER_ID=3
+      - PROXY_URL=${PROXY_URL_3:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_4:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=200
+      - END_ROW=250
+      - WORKER_ID=4
+      - PROXY_URL=${PROXY_URL_4:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_5:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=250
+      - END_ROW=300
+      - WORKER_ID=5
+      - PROXY_URL=${PROXY_URL_5:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_6:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=300
+      - END_ROW=350
+      - WORKER_ID=6
+      - PROXY_URL=${PROXY_URL_6:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_7:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=350
+      - END_ROW=400
+      - WORKER_ID=7
+      - PROXY_URL=${PROXY_URL_7:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_8:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=400
+      - END_ROW=450
+      - WORKER_ID=8
+      - PROXY_URL=${PROXY_URL_8:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_9:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=450
+      - END_ROW=500
+      - WORKER_ID=9
+      - PROXY_URL=${PROXY_URL_9:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_10:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=500
+      - END_ROW=550
+      - WORKER_ID=10
+      - PROXY_URL=${PROXY_URL_10:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_11:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=550
+      - END_ROW=600
+      - WORKER_ID=11
+      - PROXY_URL=${PROXY_URL_11:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_12:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=600
+      - END_ROW=650
+      - WORKER_ID=12
+      - PROXY_URL=${PROXY_URL_12:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  worker_13:
+    build: ./worker
+    env_file: .env
+    environment:
+      - START_ROW=650
+      - END_ROW=667
+      - WORKER_ID=13
+      - PROXY_URL=${PROXY_URL_13:-}
+    volumes:
+      - ./volume:/data
+    restart: "no"
+
+  # ── Merger ───────────────────────────────────────────────────────────────────
+  # Waits for all workers to finish successfully, then combines results into
+  # volume/output_with_results.xlsx
+  merger:
+    build: ./worker
+    command: python merge.py
+    env_file: .env
+    volumes:
+      - ./volume:/data
+    restart: "no"
+    depends_on:
+      worker_0:  { condition: service_completed_successfully }
+      worker_1:  { condition: service_completed_successfully }
+      worker_2:  { condition: service_completed_successfully }
+      worker_3:  { condition: service_completed_successfully }
+      worker_4:  { condition: service_completed_successfully }
+      worker_5:  { condition: service_completed_successfully }
+      worker_6:  { condition: service_completed_successfully }
+      worker_7:  { condition: service_completed_successfully }
+      worker_8:  { condition: service_completed_successfully }
+      worker_9:  { condition: service_completed_successfully }
+      worker_10: { condition: service_completed_successfully }
+      worker_11: { condition: service_completed_successfully }
+      worker_12: { condition: service_completed_successfully }
+      worker_13: { condition: service_completed_successfully }
