@@ -11,13 +11,12 @@
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-const START_ROW = 50;   // inclusive, 0-based (first data row after header)
-const END_ROW   = 100;  // exclusive  → processes rows 50..99
+const START_ROW = 100;   // inclusive, 0-based (first data row after header)
+const END_ROW   = 149;  // exclusive  → processes rows 100..148
 
 const EXCEL_FILE  = "./volume/New stocks to be added to the universe.xlsx";
 const SHEET_NAME  = "filtered by exchange";
 const RESULTS_DIR = "./volume/results";
-const OUTPUT_FILE = "./volume/output_manual.xlsx";
 
 const BEARER_TOKEN = 
 "O0AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJHVE4iLCJyb2xlIjoiY3VzdG9tZXIiLCJodWIiOiJESUZDIiwicHJvdmlkZXIiOiJHVE4iLCJjaGFubmVsIjoiNDYiLCJpbnN0Q29kZSI6Ik5VUUkgTUFVUklUSVVTIiwiY3VzdG9tZXJOdW1iZXIiOiI5MzgzMjM2NTIiLCJ2ZXJzaW9uIjoidjEiLCJleHAiOjE3NzI5NjYwOTUsImlhdCI6MTc3Mjk2MjE5NSwianRpIjoiZWVmZDZlOTQtZjE1NS00NzMzLWI2MzQtZjQ1ZjQ0NzNlNTc2In0.15lpu7xqkkLenQI8y9_X398L-vmU6zD68CYAxk33at8";
@@ -197,22 +196,7 @@ async function main() {
   fs.writeFileSync(jsonPath, JSON.stringify(mergedResults, null, 2));
   log("ok", `Results file updated → ${jsonPath}  (${mergedResults.length} total entries across all runs)`);
 
-  // 6. Write Excel output applying ALL accumulated results (not just this run)
-  log("info", "Writing output Excel...");
-  const outputRows = allRows.map((row, idx) => {
-    const result = resultsMap.get(idx);
-    return result !== undefined
-      ? { ...row, is_correct: result.is_correct }
-      : { ...row, is_correct: null };
-  });
-
-  const outWs = XLSX.utils.json_to_sheet(outputRows);
-  const outWb = XLSX.utils.book_new();
-  XLSX.utils.book_append_sheet(outWb, outWs, "results");
-  XLSX.writeFile(outWb, OUTPUT_FILE);
-  log("ok", `Output Excel saved → ${OUTPUT_FILE}`);
-
-  // 7. Summary
+  // 6. Summary
   console.log("");
   console.log("━".repeat(60));
   log("info", `Summary:`);
