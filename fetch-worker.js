@@ -11,15 +11,15 @@
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-const START_ROW = 229;   // inclusive, 0-based (first data row after header)
-const END_ROW   = 279;  // exclusive  → processes rows 229..278
+const START_ROW = 279;   // inclusive, 0-based (first data row after header)
+const END_ROW   = 329;  // exclusive  → processes rows 279..328
 
 const EXCEL_FILE  = "./volume/New stocks to be added to the universe.xlsx";
 const SHEET_NAME  = "filtered by exchange";
 const RESULTS_DIR = "./volume/results";
 
 const BEARER_TOKEN = 
-"O0AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJHVE4iLCJyb2xlIjoiY3VzdG9tZXIiLCJodWIiOiJESUZDIiwicHJvdmlkZXIiOiJHVE4iLCJjaGFubmVsIjoiNDYiLCJpbnN0Q29kZSI6Ik5VUUkgTUFVUklUSVVTIiwiY3VzdG9tZXJOdW1iZXIiOiI5MzgzMjM2NTIiLCJ2ZXJzaW9uIjoidjEiLCJleHAiOjE3NzMxMjE5NDEsImlhdCI6MTc3MzExODA0MSwianRpIjoiYjFiODcwYWUtOTcxYy00NzExLWFhMzMtNDg0NmRjZDU0ZWM5In0.wHROmUR89ODb_W_qZZL9PfcXuOfxa_Jz4UBGWXDEyqs";
+"O0AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJHVE4iLCJyb2xlIjoiY3VzdG9tZXIiLCJodWIiOiJESUZDIiwicHJvdmlkZXIiOiJHVE4iLCJjaGFubmVsIjoiNDYiLCJpbnN0Q29kZSI6Ik5VUUkgTUFVUklUSVVTIiwiY3VzdG9tZXJOdW1iZXIiOiI5MzgzMjM2NTIiLCJ2ZXJzaW9uIjoidjEiLCJleHAiOjE3NzMyMDY5NjUsImlhdCI6MTc3MzIwMzA2NSwianRpIjoiMTg5ZTAwY2ItZjM2Yy00YmI1LWI3ZWQtY2FjNWMxOGNjZTdjIn0.uXXbDJL6OXSRoyRMFfENVzDWaxIo-0lue8qvPt8lhBk";
 
 const THROTTLE_KEY = "ptmMH4AY8_LZsW5KbpvtUZzQNSAa";
 

@@ -1830,5 +1830,397 @@
     "symbol": "PTRN",
     "is_correct": true,
     "numFound": 1
+  },
+  {
+    "rowNumber": 230,
+    "key": "NSDQ~PRSO",
+    "exchange": "NSDQ",
+    "symbol": "PRSO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 231,
+    "key": "NSDQ~PWP",
+    "exchange": "NSDQ",
+    "symbol": "PWP",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 232,
+    "key": "NSDQ~PHOE",
+    "exchange": "NSDQ",
+    "symbol": "PHOE",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 233,
+    "key": "NSDQ~PCLA",
+    "exchange": "NSDQ",
+    "symbol": "PCLA",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 234,
+    "key": "NSDQ~PFAI",
+    "exchange": "NSDQ",
+    "symbol": "PFAI",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 235,
+    "key": "NSDQ~PLTS",
+    "exchange": "NSDQ",
+    "symbol": "PLTS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 236,
+    "key": "NSDQ~PSTV",
+    "exchange": "NSDQ",
+    "symbol": "PSTV",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 237,
+    "key": "NSDQ~PSIX",
+    "exchange": "NSDQ",
+    "symbol": "PSIX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 238,
+    "key": "NSDQ~PC",
+    "exchange": "NSDQ",
+    "symbol": "PC",
+    "is_correct": true,
+    "numFound": 47
+  },
+  {
+    "rowNumber": 239,
+    "key": "NSDQ~PMEC",
+    "exchange": "NSDQ",
+    "symbol": "PMEC",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 240,
+    "key": "NSDQ~PRCT",
+    "exchange": "NSDQ",
+    "symbol": "PRCT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 241,
+    "key": "NSDQ~PAL",
+    "exchange": "NSDQ",
+    "symbol": "PAL",
+    "is_correct": true,
+    "numFound": 47
+  },
+  {
+    "rowNumber": 242,
+    "key": "NSDQ~PSIG",
+    "exchange": "NSDQ",
+    "symbol": "PSIG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 243,
+    "key": "NSDQ~LUNG",
+    "exchange": "NSDQ",
+    "symbol": "LUNG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 244,
+    "key": "NSDQ~PBYI",
+    "exchange": "NSDQ",
+    "symbol": "PBYI",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 245,
+    "key": "NSDQ~QMMM",
+    "exchange": "NSDQ",
+    "symbol": "QMMM",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 246,
+    "key": "NSDQ~QTRX",
+    "exchange": "NSDQ",
+    "symbol": "QTRX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 247,
+    "key": "NSDQ~RDNT",
+    "exchange": "NSDQ",
+    "symbol": "RDNT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 248,
+    "key": "NSDQ~RPID",
+    "exchange": "NSDQ",
+    "symbol": "RPID",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 249,
+    "key": "NSDQ~REGN",
+    "exchange": "NSDQ",
+    "symbol": "REGN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 250,
+    "key": "NSDQ~RGEN",
+    "exchange": "NSDQ",
+    "symbol": "RGEN",
+    "is_correct": true,
+    "numFound": 6
+  },
+  {
+    "rowNumber": 251,
+    "key": "NSDQ~REFR",
+    "exchange": "NSDQ",
+    "symbol": "REFR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 252,
+    "key": "NSDQ~RETO",
+    "exchange": "NSDQ",
+    "symbol": "RETO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 253,
+    "key": "NSDQ~RZLV",
+    "exchange": "NSDQ",
+    "symbol": "RZLV",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 254,
+    "key": "NSDQ~ANPA",
+    "exchange": "NSDQ",
+    "symbol": "ANPA",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 255,
+    "key": "NSDQ~RIOT",
+    "exchange": "NSDQ",
+    "symbol": "RIOT",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 256,
+    "key": "NSDQ~RIVN",
+    "exchange": "NSDQ",
+    "symbol": "RIVN",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 257,
+    "key": "NSDQ~AIIO",
+    "exchange": "NSDQ",
+    "symbol": "AIIO",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 258,
+    "key": "NSDQ~LAWR",
+    "exchange": "NSDQ",
+    "symbol": "LAWR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 259,
+    "key": "NSDQ~RKLB",
+    "exchange": "NSDQ",
+    "symbol": "RKLB",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 260,
+    "key": "NSDQ~RMCO",
+    "exchange": "NSDQ",
+    "symbol": "RMCO",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 261,
+    "key": "NSDQ~RYET",
+    "exchange": "NSDQ",
+    "symbol": "RYET",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 262,
+    "key": "NSDQ~RYOJ",
+    "exchange": "NSDQ",
+    "symbol": "RYOJ",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 263,
+    "key": "NSDQ~RVYL",
+    "exchange": "NSDQ",
+    "symbol": "RVYL",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 264,
+    "key": "NSDQ~SAIL",
+    "exchange": "NSDQ",
+    "symbol": "SAIL",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 265,
+    "key": "NSDQ~SNDK",
+    "exchange": "NSDQ",
+    "symbol": "SNDK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 266,
+    "key": "NSDQ~SNWV",
+    "exchange": "NSDQ",
+    "symbol": "SNWV",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 267,
+    "key": "NSDQ~STAI",
+    "exchange": "NSDQ",
+    "symbol": "STAI",
+    "is_correct": false,
+    "numFound": 7
+  },
+  {
+    "rowNumber": 268,
+    "key": "NSDQ~SCNX",
+    "exchange": "NSDQ",
+    "symbol": "SCNX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 269,
+    "key": "NSDQ~STX",
+    "exchange": "NSDQ",
+    "symbol": "STX",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 270,
+    "key": "NSDQ~LEDS",
+    "exchange": "NSDQ",
+    "symbol": "LEDS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 271,
+    "key": "NSDQ~SMTC",
+    "exchange": "NSDQ",
+    "symbol": "SMTC",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 272,
+    "key": "NSDQ~SGHT",
+    "exchange": "NSDQ",
+    "symbol": "SGHT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 273,
+    "key": "NSDQ~SVCO",
+    "exchange": "NSDQ",
+    "symbol": "SVCO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 274,
+    "key": "NSDQ~EDTK",
+    "exchange": "NSDQ",
+    "symbol": "EDTK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 275,
+    "key": "NSDQ~PN",
+    "exchange": "NSDQ",
+    "symbol": "PN",
+    "is_correct": true,
+    "numFound": 22
+  },
+  {
+    "rowNumber": 276,
+    "key": "NSDQ~SLGB",
+    "exchange": "NSDQ",
+    "symbol": "SLGB",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 277,
+    "key": "NSDQ~SMTK",
+    "exchange": "NSDQ",
+    "symbol": "SMTK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 278,
+    "key": "NSDQ~SOHU",
+    "exchange": "NSDQ",
+    "symbol": "SOHU",
+    "is_correct": true,
+    "numFound": 1
   }
 ]
