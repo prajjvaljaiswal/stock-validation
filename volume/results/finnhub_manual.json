@@ -1,0 +1,490 @@
+[
+  {
+    "rowNumber": 0,
+    "isin": "AEA000301019",
+    "sheet_symbol": "ADNH",
+    "finhub_symbol": "ADNH.AD",
+    "finnhub_raw_sym": "ADNH.AD",
+    "description": "Abu Dhabi National Hotels Co PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 1,
+    "isin": "AEE01575A252",
+    "sheet_symbol": "ALPHADATA",
+    "finhub_symbol": "ALPHADATA.AD",
+    "finnhub_raw_sym": "ALPHADATA.AD",
+    "description": "Alpha Data PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 2,
+    "isin": "AEG000201018",
+    "sheet_symbol": "JULPHAR",
+    "finhub_symbol": "JULPHAR.AD",
+    "finnhub_raw_sym": "JULPHAR.AD",
+    "description": "Gulf Pharmaceutical Industries Julphar Co PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 3,
+    "isin": "AEE01710A255",
+    "sheet_symbol": "ALEC",
+    "finhub_symbol": "ALEC.DB",
+    "finnhub_raw_sym": "ALEC.DB",
+    "description": "ALEC Holdings PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 4,
+    "isin": "AEJ000101014",
+    "sheet_symbol": "ERC",
+    "finhub_symbol": "ERC.DB",
+    "finnhub_raw_sym": "ERC.DB",
+    "description": "Emirates Reem Investments Company PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 5,
+    "isin": "AEN000901019",
+    "sheet_symbol": "NCC",
+    "finhub_symbol": "NCC.DB",
+    "finnhub_raw_sym": "NCC.DB",
+    "description": "National Cement Company PSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 6,
+    "isin": "AEN000501017",
+    "sheet_symbol": "TABREED",
+    "finhub_symbol": "TABREED.DB",
+    "finnhub_raw_sym": "TABREED.DB",
+    "description": "National Central Cooling Co PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 7,
+    "isin": "AEA001401016",
+    "sheet_symbol": "SUKOONTAKAFL",
+    "finhub_symbol": "SUKOONTAKAFL.DB",
+    "finnhub_raw_sym": "SUKOONTAKAFL.DB",
+    "description": "Sukoon Takaful PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 8,
+    "isin": "AEU000101011",
+    "sheet_symbol": "UPP",
+    "finhub_symbol": "UPP.DB",
+    "finnhub_raw_sym": "UPP.DB",
+    "description": "Union Properties PJSC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 9,
+    "isin": "US3205511047",
+    "sheet_symbol": "DIBS",
+    "finhub_symbol": "DIBS",
+    "finnhub_raw_sym": "DIBS",
+    "description": "1stdibs.Com Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 10,
+    "isin": "US88583P1049",
+    "sheet_symbol": "SCWO",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 11,
+    "isin": "KYG0069D1108",
+    "sheet_symbol": "ACCL",
+    "finhub_symbol": "ACCL",
+    "finnhub_raw_sym": "ACCL",
+    "description": "Acco Group Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 12,
+    "isin": "US0044981019",
+    "sheet_symbol": "ACIW",
+    "finhub_symbol": "ACIW",
+    "finnhub_raw_sym": "ACIW",
+    "description": "ACI Worldwide Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 13,
+    "isin": "US0048482063",
+    "sheet_symbol": "ACFN",
+    "finhub_symbol": "ACFN",
+    "finnhub_raw_sym": "ACFN",
+    "description": "Acorn Energy Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 14,
+    "isin": "US00650F1093",
+    "sheet_symbol": "ADPT",
+    "finhub_symbol": "ADPT",
+    "finnhub_raw_sym": "ADPT",
+    "description": "Adaptive Biotechnologies Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 15,
+    "isin": "US00654J2069",
+    "sheet_symbol": "ADXN",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 16,
+    "isin": "US0083892077",
+    "sheet_symbol": "ATPC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 17,
+    "isin": "KYG0206E1044",
+    "sheet_symbol": "AGCC",
+    "finhub_symbol": "AGCC",
+    "finnhub_raw_sym": "AGCC",
+    "description": "Agencia Comercial Spirits Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 18,
+    "isin": "US00847J1051",
+    "sheet_symbol": "AGYS",
+    "finhub_symbol": "AGYS",
+    "finnhub_raw_sym": "AGYS",
+    "description": "Agilysys Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 19,
+    "isin": "US0090661010",
+    "sheet_symbol": "ABNB",
+    "finhub_symbol": "ABNB",
+    "finnhub_raw_sym": "ABNB",
+    "description": "Airbnb Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 20,
+    "isin": "US0094221068",
+    "sheet_symbol": "AIRO",
+    "finhub_symbol": "AIRO",
+    "finnhub_raw_sym": "AIRO",
+    "description": "AIRO Group Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 21,
+    "isin": "US8314455077",
+    "sheet_symbol": "YYAI",
+    "finhub_symbol": "YYAI",
+    "finnhub_raw_sym": "YYAI",
+    "description": "AiRWA Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 22,
+    "isin": "US01644J1088",
+    "sheet_symbol": "ALKT",
+    "finhub_symbol": "ALKT",
+    "finnhub_raw_sym": "ALKT",
+    "description": "Alkami Technology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 23,
+    "isin": "US02043Q1076",
+    "sheet_symbol": "ALNY",
+    "finhub_symbol": "ALNY",
+    "finnhub_raw_sym": "ALNY",
+    "description": "Alnylam Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 24,
+    "isin": "VGG0232G1155",
+    "sheet_symbol": "ATGL",
+    "finhub_symbol": "ATGL",
+    "finnhub_raw_sym": "ATGL",
+    "description": "Alpha Technology Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 25,
+    "isin": "US47089W1045",
+    "sheet_symbol": "ALTS",
+    "finhub_symbol": "ALTS",
+    "finnhub_raw_sym": "ALTS",
+    "description": "ALT5 Sigma Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 26,
+    "isin": "US45113Y2037",
+    "sheet_symbol": "AMBR",
+    "finhub_symbol": "AMBR",
+    "finnhub_raw_sym": "AMBR",
+    "description": "Amber International Holding Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 27,
+    "isin": "KYG0262A1031",
+    "sheet_symbol": "AHMA",
+    "finhub_symbol": "AHMA",
+    "finnhub_raw_sym": "AHMA",
+    "description": "Ambitions Enterprise Management Co LLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 28,
+    "isin": "US02451V3096",
+    "sheet_symbol": "ABAT",
+    "finhub_symbol": "ABAT",
+    "finnhub_raw_sym": "ABAT",
+    "description": "American Battery Technology Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 29,
+    "isin": "US02462A1043",
+    "sheet_symbol": "ABTC",
+    "finhub_symbol": "ABTC",
+    "finnhub_raw_sym": "ABTC",
+    "description": "American Bitcoin Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 30,
+    "isin": "US02913V1035",
+    "sheet_symbol": "APEI",
+    "finhub_symbol": "APEI",
+    "finnhub_raw_sym": "APEI",
+    "description": "American Public Education Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 31,
+    "isin": "KYG0367B1059",
+    "sheet_symbol": "NNNN",
+    "finhub_symbol": "NNNN",
+    "finnhub_raw_sym": "NNNN",
+    "description": "Anbio Biotechnology",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 32,
+    "isin": "US0396971071",
+    "sheet_symbol": "ARDX",
+    "finhub_symbol": "ARDX",
+    "finnhub_raw_sym": "ARDX",
+    "description": "Ardelyx Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 33,
+    "isin": "US0401263027",
+    "sheet_symbol": "ARBK",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 34,
+    "isin": "US04272H2040",
+    "sheet_symbol": "ARAI",
+    "finhub_symbol": "ARAI",
+    "finnhub_raw_sym": "ARAI",
+    "description": "Arrive AI Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 35,
+    "isin": "US04280A1007",
+    "sheet_symbol": "ARWR",
+    "finhub_symbol": "ARWR",
+    "finnhub_raw_sym": "ARWR",
+    "description": "Arrowhead Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 36,
+    "isin": "US04351P1012",
+    "sheet_symbol": "ASND",
+    "finhub_symbol": "ASND",
+    "finnhub_raw_sym": "ASND",
+    "description": "Ascendis Pharma A/S",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 37,
+    "isin": "US0436358040",
+    "sheet_symbol": "ASTI",
+    "finhub_symbol": "ASTI",
+    "finnhub_raw_sym": "ASTI",
+    "description": "Ascent Solar Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 38,
+    "isin": "KYG8946B1086",
+    "sheet_symbol": "SORA",
+    "finhub_symbol": "TOPW",
+    "finnhub_raw_sym": "TOPW",
+    "description": "Top Win International Trading Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 39,
+    "isin": "US04626A1034",
+    "sheet_symbol": "ALAB",
+    "finhub_symbol": "ALAB",
+    "finnhub_raw_sym": "ALAB",
+    "description": "Astera Labs Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 40,
+    "isin": "VGG0602B1186",
+    "sheet_symbol": "ZBAI",
+    "finhub_symbol": "ZBAI",
+    "finnhub_raw_sym": "ZBAI",
+    "description": "ATIF Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 41,
+    "isin": "US0021202025",
+    "sheet_symbol": "ATYR",
+    "finhub_symbol": "ATYR",
+    "finnhub_raw_sym": "ATYR",
+    "description": "aTyr Pharma Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 42,
+    "isin": "US05156D1028",
+    "sheet_symbol": "AGH",
+    "finhub_symbol": "AGH",
+    "finnhub_raw_sym": "AGH",
+    "description": "Aureus Greenway Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 43,
+    "isin": "CA05156V1022",
+    "sheet_symbol": "AUPH",
+    "finhub_symbol": "AUPH",
+    "finnhub_raw_sym": "AUPH",
+    "description": "Aurinia Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 44,
+    "isin": "CA05156V1022",
+    "sheet_symbol": "AUPH",
+    "finhub_symbol": "AUPH",
+    "finnhub_raw_sym": "AUPH",
+    "description": "Aurinia Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 45,
+    "isin": "US46264C3051",
+    "sheet_symbol": "AUID",
+    "finhub_symbol": "AUID",
+    "finnhub_raw_sym": "AUID",
+    "description": "Authid Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 46,
+    "isin": "US05344R3021",
+    "sheet_symbol": "ALBT",
+    "finhub_symbol": "ALBT",
+    "finnhub_raw_sym": "ALBT",
+    "description": "Avalon Globocare Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 47,
+    "isin": "CA05353F1080",
+    "sheet_symbol": "AVX",
+    "finhub_symbol": "AVX",
+    "finnhub_raw_sym": "AVX",
+    "description": "AVAX One Technology Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 48,
+    "isin": "US0536041041",
+    "sheet_symbol": "AVPT",
+    "finhub_symbol": "AVPT",
+    "finnhub_raw_sym": "AVPT",
+    "description": "AvePoint Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 49,
+    "isin": "US05368J1034",
+    "sheet_symbol": "AVBH",
+    "finhub_symbol": "AVBH",
+    "finnhub_raw_sym": "AVBH",
+    "description": "Avidbank Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  }
+]
