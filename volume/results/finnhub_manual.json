@@ -486,5 +486,6019 @@
     "description": "Avidbank Holdings Inc",
     "type": "Common Stock",
     "found": true
+  },
+  {
+    "rowNumber": 50,
+    "isin": "US05453N1000",
+    "sheet_symbol": "AWRE",
+    "finhub_symbol": "AWRE",
+    "finnhub_raw_sym": "AWRE",
+    "description": "Aware Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 51,
+    "isin": "US1143401024",
+    "sheet_symbol": "AZTA",
+    "finhub_symbol": "AZTA",
+    "finnhub_raw_sym": "AZTA",
+    "description": "Azenta Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 52,
+    "isin": "KYG0705H1039",
+    "sheet_symbol": "BDMD",
+    "finhub_symbol": "BDMD",
+    "finnhub_raw_sym": "BDMD",
+    "description": "Baird Medical Investment Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 53,
+    "isin": "VGG0864B1031",
+    "sheet_symbol": "BMGL",
+    "finhub_symbol": "BMGL",
+    "finnhub_raw_sym": "BMGL",
+    "description": "Basel Medical Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 54,
+    "isin": "KYG096751022",
+    "sheet_symbol": "BLIV",
+    "finhub_symbol": "BLIV",
+    "finnhub_raw_sym": "BLIV",
+    "description": "BeLive Holdings",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 55,
+    "isin": "US07725L1026",
+    "sheet_symbol": "ONC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 56,
+    "isin": "US09060C5076",
+    "sheet_symbol": "BKYI",
+    "finhub_symbol": "BKYI",
+    "finnhub_raw_sym": "BKYI",
+    "description": "BIO-Key International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 57,
+    "isin": "US09075F4046",
+    "sheet_symbol": "BNGO",
+    "finhub_symbol": "BNGO",
+    "finnhub_raw_sym": "BNGO",
+    "description": "Bionano Genomics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 58,
+    "isin": "US09075V1026",
+    "sheet_symbol": "BNTX",
+    "finhub_symbol": "BNTX",
+    "finnhub_raw_sym": "BNTX",
+    "description": "Biontech SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 59,
+    "isin": "KYG216211188",
+    "sheet_symbol": "BTOG",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 60,
+    "isin": "US0922441029",
+    "sheet_symbol": "BRCB",
+    "finhub_symbol": "BRCB",
+    "finnhub_raw_sym": "BRCB",
+    "description": "Black Rock Coffee Bar Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 61,
+    "isin": "US48208F3038",
+    "sheet_symbol": "BNKK",
+    "finhub_symbol": "BNKK",
+    "finnhub_raw_sym": "BNKK",
+    "description": "Bonk Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 62,
+    "isin": "CA09973D1050",
+    "sheet_symbol": "BRLS",
+    "finhub_symbol": "BRLS",
+    "finnhub_raw_sym": "BRLS",
+    "description": "Oxus Acquisition Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 63,
+    "isin": "IE0004OVVKF1",
+    "sheet_symbol": "SLMT",
+    "finhub_symbol": "SLMT",
+    "finnhub_raw_sym": "SLMT",
+    "description": "Brera Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 64,
+    "isin": "VGG1739L1022",
+    "sheet_symbol": "BUUU",
+    "finhub_symbol": "BUUU",
+    "finnhub_raw_sym": "BUUU",
+    "description": "BUUU Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 65,
+    "isin": "US05603E2081",
+    "sheet_symbol": "BVFL",
+    "finhub_symbol": "BVFL",
+    "finnhub_raw_sym": "BVFL",
+    "description": "BV Financial Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 66,
+    "isin": "US84252A1060",
+    "sheet_symbol": "BCAL",
+    "finhub_symbol": "BCAL",
+    "finnhub_raw_sym": "BCAL",
+    "description": "California Bancorp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 67,
+    "isin": "US1409351079",
+    "sheet_symbol": "CV",
+    "finhub_symbol": "CV",
+    "finnhub_raw_sym": "CV",
+    "description": "CapsoVision Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 68,
+    "isin": "US1420381089",
+    "sheet_symbol": "CRBU",
+    "finhub_symbol": "CRBU",
+    "finnhub_raw_sym": "CRBU",
+    "description": "Caribou Biosciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 69,
+    "isin": "US1421521071",
+    "sheet_symbol": "CAI",
+    "finhub_symbol": "CAI",
+    "finnhub_raw_sym": "CAI",
+    "description": "Caris Life Sciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 70,
+    "isin": "US14808P1093",
+    "sheet_symbol": "CASS",
+    "finhub_symbol": "CASS",
+    "finnhub_raw_sym": "CASS",
+    "description": "Cass Information Systems Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 71,
+    "isin": "US12479G1013",
+    "sheet_symbol": "CBFV",
+    "finhub_symbol": "CBFV",
+    "finnhub_raw_sym": "CBFV",
+    "description": "CB Financial Services Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 72,
+    "isin": "KYG1993F1063",
+    "sheet_symbol": "CCHH",
+    "finhub_symbol": "CCHH",
+    "finnhub_raw_sym": "CCHH",
+    "description": "CCH Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 73,
+    "isin": "US1511902041",
+    "sheet_symbol": "CELU",
+    "finhub_symbol": "CELU",
+    "finnhub_raw_sym": "CELU",
+    "description": "Celularity Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 74,
+    "isin": "US1524131000",
+    "sheet_symbol": "CBC",
+    "finhub_symbol": "CBC",
+    "finnhub_raw_sym": "CBC",
+    "description": "Central Bancompany Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 75,
+    "isin": "US15743P1049",
+    "sheet_symbol": "CHA",
+    "finhub_symbol": "CHA",
+    "finnhub_raw_sym": "CHA",
+    "description": "Chagee Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 76,
+    "isin": "VGG205281089",
+    "sheet_symbol": "MCTA",
+    "finhub_symbol": "MCTA",
+    "finnhub_raw_sym": "MCTA",
+    "description": "Charming Medical Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 77,
+    "isin": "VGG2161P1577",
+    "sheet_symbol": "SXTC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 78,
+    "isin": "VGG2R09D1107",
+    "sheet_symbol": "CLIK",
+    "finhub_symbol": "CLIK",
+    "finnhub_raw_sym": "CLIK",
+    "description": "Click Holdings Limited",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 79,
+    "isin": "US4628371050",
+    "sheet_symbol": "UCFI",
+    "finhub_symbol": "UCFI",
+    "finnhub_raw_sym": "UCFI",
+    "description": "CN Healthy Food Tech Group Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 80,
+    "isin": "US19207A2078",
+    "sheet_symbol": "COEP",
+    "finhub_symbol": "COEP",
+    "finnhub_raw_sym": "COEP",
+    "description": "Coeptis Therapeutics Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 81,
+    "isin": "US19249H1032",
+    "sheet_symbol": "CHRS",
+    "finhub_symbol": "CHRS",
+    "finnhub_raw_sym": "CHRS",
+    "description": "Coherus Oncology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 82,
+    "isin": "US08975P1084",
+    "sheet_symbol": "CMRC",
+    "finhub_symbol": "CMRC",
+    "finnhub_raw_sym": "CMRC",
+    "description": "Commerce.com Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 83,
+    "isin": "VGG2452S1002",
+    "sheet_symbol": "CIGL",
+    "finhub_symbol": "CIGL",
+    "finnhub_raw_sym": "CIGL",
+    "description": "Concorde International Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 84,
+    "isin": "CA83013Q8719",
+    "sheet_symbol": "CHAI",
+    "finhub_symbol": "CHAI",
+    "finnhub_raw_sym": "CHAI",
+    "description": "Core AI Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 85,
+    "isin": "US21873S1087",
+    "sheet_symbol": "CRWV",
+    "finhub_symbol": "CRWV",
+    "finnhub_raw_sym": "CRWV",
+    "description": "CoreWeave Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 86,
+    "isin": "US22160N1090",
+    "sheet_symbol": "CSGP",
+    "finhub_symbol": "CSGP",
+    "finnhub_raw_sym": "CSGP",
+    "description": "CoStar Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 87,
+    "isin": "US22407B1089",
+    "sheet_symbol": "COYA",
+    "finhub_symbol": "COYA",
+    "finnhub_raw_sym": "COYA",
+    "description": "Coya Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 88,
+    "isin": "VGG2R63D1050",
+    "sheet_symbol": "CRE",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 89,
+    "isin": "US22788C1053",
+    "sheet_symbol": "CRWD",
+    "finhub_symbol": "CRWD",
+    "finnhub_raw_sym": "CRWD",
+    "description": "CrowdStrike Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 90,
+    "isin": "KYG2589A1058",
+    "sheet_symbol": "CTW",
+    "finhub_symbol": "CTW",
+    "finnhub_raw_sym": "CTW",
+    "description": "CTW Cayman",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 91,
+    "isin": "US2307701092",
+    "sheet_symbol": "CPIX",
+    "finhub_symbol": "CPIX",
+    "finnhub_raw_sym": "CPIX",
+    "description": "Cumberland Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 92,
+    "isin": "KYG2592E1026",
+    "sheet_symbol": "CUPR",
+    "finhub_symbol": "CUPR",
+    "finnhub_raw_sym": "CUPR",
+    "description": "Cuprina Holdings (Cayman) Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 93,
+    "isin": "US23130Q1076",
+    "sheet_symbol": "CURI",
+    "finhub_symbol": "CURI",
+    "finnhub_raw_sym": "CURI",
+    "description": "CuriosityStream Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 94,
+    "isin": "US23255M2044",
+    "sheet_symbol": "CYCN",
+    "finhub_symbol": "CYCN",
+    "finnhub_raw_sym": "CYCN",
+    "description": "Cyclerion Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 95,
+    "isin": "KYG2657S1030",
+    "sheet_symbol": "DKI",
+    "finhub_symbol": "DKI",
+    "finnhub_raw_sym": "DKI",
+    "description": "DarkIris Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 96,
+    "isin": "LU2405144788",
+    "sheet_symbol": "CDRO",
+    "finhub_symbol": "CDRO",
+    "finnhub_raw_sym": "CDRO",
+    "description": "Codere Online Luxembourg SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 97,
+    "isin": "KYG2748R1065",
+    "sheet_symbol": "DXST",
+    "finhub_symbol": "DXST",
+    "finnhub_raw_sym": "DXST",
+    "description": "Decent Holding Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 98,
+    "isin": "US24477E1038",
+    "sheet_symbol": "DH",
+    "finhub_symbol": "DH",
+    "finnhub_raw_sym": "DH",
+    "description": "Definitive Healthcare Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 99,
+    "isin": "KYG2703G1038",
+    "sheet_symbol": "DLXY",
+    "finhub_symbol": "DLXY",
+    "finnhub_raw_sym": "DLXY",
+    "description": "Delixy Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 100,
+    "isin": "KYG286871044",
+    "sheet_symbol": "DGNX",
+    "finhub_symbol": "DGNX",
+    "finnhub_raw_sym": "DGNX",
+    "description": "Diginex Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 101,
+    "isin": "US0088753043",
+    "sheet_symbol": "DOMH",
+    "finhub_symbol": "DOMH",
+    "finnhub_raw_sym": "DOMH",
+    "description": "Dominari Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 102,
+    "isin": "US25862B1098",
+    "sheet_symbol": "DDI",
+    "finhub_symbol": "DDI",
+    "finnhub_raw_sym": "DDI",
+    "description": "DoubleDown Interactive Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 103,
+    "isin": "US25985W2044",
+    "sheet_symbol": "DOYU",
+    "finhub_symbol": "DOYU",
+    "finnhub_raw_sym": "DOYU",
+    "description": "Douyu International Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 104,
+    "isin": "KYG283851056",
+    "sheet_symbol": "TDIC",
+    "finhub_symbol": "TDIC",
+    "finnhub_raw_sym": "TDIC",
+    "description": "Dreamland Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 105,
+    "isin": "US26603R1068",
+    "sheet_symbol": "DUOL",
+    "finhub_symbol": "DUOL",
+    "finnhub_raw_sym": "DUOL",
+    "description": "Duolingo Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 106,
+    "isin": "US28059P4028",
+    "sheet_symbol": "EDBL",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 107,
+    "isin": "US22890A3023",
+    "sheet_symbol": "ORBS",
+    "finhub_symbol": "ORBS",
+    "finnhub_raw_sym": "ORBS",
+    "description": "Eightco Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 108,
+    "isin": "US28417M1099",
+    "sheet_symbol": "ELWT",
+    "finhub_symbol": "ELWT",
+    "finnhub_raw_sym": "ELWT",
+    "description": "Elauwit Connection Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 109,
+    "isin": "KYG3041J1067",
+    "sheet_symbol": "EMPG",
+    "finhub_symbol": "EMPG",
+    "finnhub_raw_sym": "EMPG",
+    "description": "Empro Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 110,
+    "isin": "KYG3040B1041",
+    "sheet_symbol": "ENGS",
+    "finhub_symbol": "ENGS",
+    "finnhub_raw_sym": "ENGS",
+    "description": "Energys Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 111,
+    "isin": "US29355A1079",
+    "sheet_symbol": "ENPH",
+    "finhub_symbol": "ENPH",
+    "finnhub_raw_sym": "ENPH",
+    "description": "Enphase Energy Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 112,
+    "isin": "US2936025046",
+    "sheet_symbol": "ENSC",
+    "finhub_symbol": "ENSC",
+    "finnhub_raw_sym": "ENSC",
+    "description": "Ensysce Biosciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 113,
+    "isin": "US29414V3087",
+    "sheet_symbol": "EVTV",
+    "finhub_symbol": "EVTV",
+    "finnhub_raw_sym": "EVTV",
+    "description": "Envirotech Vehicles Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 114,
+    "isin": "VGG3090S1065",
+    "sheet_symbol": "EPSM",
+    "finhub_symbol": "EPSM",
+    "finnhub_raw_sym": "EPSM",
+    "description": "Epsium Enterprise Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 115,
+    "isin": "KYG3R95P1087",
+    "sheet_symbol": "ESGL",
+    "finhub_symbol": "ESGL",
+    "finnhub_raw_sym": "ESGL",
+    "description": "ESGL Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 116,
+    "isin": "KYG3121H1039",
+    "sheet_symbol": "EHGO",
+    "finhub_symbol": "EHGO",
+    "finnhub_raw_sym": "EHGO",
+    "description": "Eshallgo Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 117,
+    "isin": "MHY234DY1099",
+    "sheet_symbol": "EHLD",
+    "finhub_symbol": "EHLD",
+    "finnhub_raw_sym": "EHLD",
+    "description": "Euroholdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 118,
+    "isin": "US30068X1037",
+    "sheet_symbol": "XGN",
+    "finhub_symbol": "XGN",
+    "finnhub_raw_sym": "XGN",
+    "description": "Exagen Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 119,
+    "isin": "US1651677353",
+    "sheet_symbol": "EXE",
+    "finhub_symbol": "EXE",
+    "finnhub_raw_sym": "EXE",
+    "description": "Expand Energy Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 120,
+    "isin": "US30218B2097",
+    "sheet_symbol": "XPON",
+    "finhub_symbol": "XPON",
+    "finnhub_raw_sym": "XPON",
+    "description": "Expion360 Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 121,
+    "isin": "KYG333801093",
+    "sheet_symbol": "FTRK",
+    "finhub_symbol": "FTRK",
+    "finnhub_raw_sym": "FTRK",
+    "description": "Fast Track Entertainment",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 122,
+    "isin": "US3119211007",
+    "sheet_symbol": "FATN",
+    "finhub_symbol": "FATN",
+    "finnhub_raw_sym": "FATN",
+    "description": "FatPipe Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 123,
+    "isin": "US31425A1097",
+    "sheet_symbol": "FBLA",
+    "finhub_symbol": "FBLA",
+    "finnhub_raw_sym": "FBLA",
+    "description": "FB Bancorp Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 124,
+    "isin": "US31447E1055",
+    "sheet_symbol": "FEMY",
+    "finhub_symbol": "FEMY",
+    "finnhub_raw_sym": "FEMY",
+    "description": "Femasys Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 125,
+    "isin": "CA31447P1009",
+    "sheet_symbol": "FENC",
+    "finhub_symbol": "FENC",
+    "finnhub_raw_sym": "FENC",
+    "description": "Fennec Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 126,
+    "isin": "US60365W2017",
+    "sheet_symbol": "FIEE",
+    "finhub_symbol": "FIEE",
+    "finnhub_raw_sym": "FIEE",
+    "description": "FiEE Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 127,
+    "isin": "US3169261043",
+    "sheet_symbol": "FDSB",
+    "finhub_symbol": "FDSB",
+    "finnhub_raw_sym": "FDSB",
+    "description": "Fifth District Bancorp Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 128,
+    "isin": "US31816X1063",
+    "sheet_symbol": "FLY",
+    "finhub_symbol": "FLY",
+    "finnhub_raw_sym": "FLY",
+    "description": "Firefly Aerospace Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 129,
+    "isin": "US33767U1079",
+    "sheet_symbol": "FSUN",
+    "finhub_symbol": "FSUN",
+    "finnhub_raw_sym": "FSUN",
+    "description": "Firstsun Capital Bancorp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 130,
+    "isin": "US3377381088",
+    "sheet_symbol": "FISV",
+    "finhub_symbol": "FISV",
+    "finnhub_raw_sym": "FISV",
+    "description": "Fiserv Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 131,
+    "isin": "KYG3580P1090",
+    "sheet_symbol": "FCHL",
+    "finhub_symbol": "FCHL",
+    "finnhub_raw_sym": "FCHL",
+    "description": "Fitness Champs Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 132,
+    "isin": "US34630N1063",
+    "sheet_symbol": "FORA",
+    "finhub_symbol": "FORA",
+    "finnhub_raw_sym": "FORA",
+    "description": "Forian Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 133,
+    "isin": "US3516651045",
+    "sheet_symbol": "FOXX",
+    "finhub_symbol": "FOXX",
+    "finnhub_raw_sym": "FOXX",
+    "description": "Foxx Development Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 134,
+    "isin": "US3580541049",
+    "sheet_symbol": "FRSH",
+    "finhub_symbol": "FRSH",
+    "finnhub_raw_sym": "FRSH",
+    "description": "Freshworks Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 135,
+    "isin": "US35952H7008",
+    "sheet_symbol": "FCEL",
+    "finhub_symbol": "FCEL",
+    "finnhub_raw_sym": "FCEL",
+    "description": "Fuelcell Energy Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 136,
+    "isin": "US36468G1031",
+    "sheet_symbol": "GAME",
+    "finhub_symbol": "GAME",
+    "finnhub_raw_sym": "GAME",
+    "description": "GameSquare Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 137,
+    "isin": "US36166F1003",
+    "sheet_symbol": "GBFH",
+    "finhub_symbol": "GBFH",
+    "finnhub_raw_sym": "GBFH",
+    "description": "GBank Financial Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 138,
+    "isin": "US3723032062",
+    "sheet_symbol": "GMAB",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 139,
+    "isin": "US37637K1088",
+    "sheet_symbol": "GTLB",
+    "finhub_symbol": "GTLB",
+    "finnhub_raw_sym": "GTLB",
+    "description": "GitLab Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 140,
+    "isin": "US3789735079",
+    "sheet_symbol": "GSAT",
+    "finhub_symbol": "GSAT",
+    "finnhub_raw_sym": "GSAT",
+    "description": "Globalstar Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 141,
+    "isin": "KYG3959D1337",
+    "sheet_symbol": "GDHG",
+    "finhub_symbol": "GDHG",
+    "finnhub_raw_sym": "GDHG",
+    "description": "Golden Heaven Group Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 142,
+    "isin": "US3932221043",
+    "sheet_symbol": "GPRE",
+    "finhub_symbol": "GPRE",
+    "finnhub_raw_sym": "GPRE",
+    "description": "Green Plains Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 143,
+    "isin": "US39813G1094",
+    "sheet_symbol": "GDYN",
+    "finhub_symbol": "GDYN",
+    "finnhub_raw_sym": "GDYN",
+    "description": "Grid Dynamics Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 144,
+    "isin": "US4005011022",
+    "sheet_symbol": "OMAB",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 145,
+    "isin": "US40131M1099",
+    "sheet_symbol": "GH",
+    "finhub_symbol": "GH",
+    "finnhub_raw_sym": "GH",
+    "description": "Guardant Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 146,
+    "isin": "KYG4290D1051",
+    "sheet_symbol": "HXHX",
+    "finhub_symbol": "HXHX",
+    "finnhub_raw_sym": "HXHX",
+    "description": "Haoxin Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 147,
+    "isin": "US42227W3060",
+    "sheet_symbol": "HCTI",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 148,
+    "isin": "US42238D1072",
+    "sheet_symbol": "HTFL",
+    "finhub_symbol": "HTFL",
+    "finnhub_raw_sym": "HTFL",
+    "description": "Heartflow Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 149,
+    "isin": "MHY3130D1013",
+    "sheet_symbol": "HMR",
+    "finhub_symbol": "HMR",
+    "finnhub_raw_sym": "HMR",
+    "description": "Heidmar Maritime Holdings Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 150,
+    "isin": "US42727R2031",
+    "sheet_symbol": "IPST",
+    "finhub_symbol": "IPST",
+    "finnhub_raw_sym": "IPST",
+    "description": "IP Strategy Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 151,
+    "isin": "KYG1901X1161",
+    "sheet_symbol": "HTCO",
+    "finhub_symbol": "HTCO",
+    "finnhub_raw_sym": "HTCO",
+    "description": "High-Trend International Group",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 152,
+    "isin": "KYG4645R1149",
+    "sheet_symbol": "HCAI",
+    "finhub_symbol": "HCAI",
+    "finnhub_raw_sym": "HCAI",
+    "description": "Huachen AI Parking Management Technology Holding Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 153,
+    "isin": "KYG464401143",
+    "sheet_symbol": "HUHU",
+    "finhub_symbol": "HUHU",
+    "finnhub_raw_sym": "HUHU",
+    "description": "HUHUTECH International Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 154,
+    "isin": "US44852G3092",
+    "sheet_symbol": "HWH",
+    "finhub_symbol": "HWH",
+    "finnhub_raw_sym": "HWH",
+    "description": "HWH International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 155,
+    "isin": "US45258D1054",
+    "sheet_symbol": "IMCR",
+    "finhub_symbol": "IMCR",
+    "finnhub_raw_sym": "IMCR",
+    "description": "Immunocore Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 156,
+    "isin": "US45254U1016",
+    "sheet_symbol": "IMRN",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 157,
+    "isin": "GB00BN4HT335",
+    "sheet_symbol": "INDV",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 158,
+    "isin": "US36151G6008",
+    "sheet_symbol": "INBS",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 159,
+    "isin": "US69764K1060",
+    "sheet_symbol": "IPM",
+    "finhub_symbol": "IPM",
+    "finnhub_raw_sym": "IPM",
+    "description": "Intelligent Protection Management Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 160,
+    "isin": "KYG480491037",
+    "sheet_symbol": "NCT",
+    "finhub_symbol": "NCT",
+    "finnhub_raw_sym": "NCT",
+    "description": "Intercont (Cayman) Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 161,
+    "isin": "US45867G1013",
+    "sheet_symbol": "IDCC",
+    "finhub_symbol": "IDCC",
+    "finnhub_raw_sym": "IDCC",
+    "description": "InterDigital Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 162,
+    "isin": "US4586653044",
+    "sheet_symbol": "TILE",
+    "finhub_symbol": "TILE",
+    "finnhub_raw_sym": "TILE",
+    "description": "Interface Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 163,
+    "isin": "US46005L1017",
+    "sheet_symbol": "IMXI",
+    "finhub_symbol": "IMXI",
+    "finnhub_raw_sym": "IMXI",
+    "description": "International Money Express Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 164,
+    "isin": "US00534A1025",
+    "sheet_symbol": "IVVD",
+    "finhub_symbol": "IVVD",
+    "finnhub_raw_sym": "IVVD",
+    "description": "Invivyd Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 165,
+    "isin": "US4622601007",
+    "sheet_symbol": "IOVA",
+    "finhub_symbol": "IOVA",
+    "finnhub_raw_sym": "IOVA",
+    "description": "Iovance Biotherapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 166,
+    "isin": "US46265G2066",
+    "sheet_symbol": "IQST",
+    "finhub_symbol": "IQST",
+    "finnhub_raw_sym": "IQST",
+    "description": "iQSTEL Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 167,
+    "isin": "US4657411066",
+    "sheet_symbol": "ITRI",
+    "finhub_symbol": "ITRI",
+    "finnhub_raw_sym": "ITRI",
+    "description": "Itron Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 168,
+    "isin": "US47714H3084",
+    "sheet_symbol": "JTAI",
+    "finhub_symbol": "JTAI",
+    "finnhub_raw_sym": "JTAI",
+    "description": "Jet.AI Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 169,
+    "isin": "US46658E1073",
+    "sheet_symbol": "JFB",
+    "finhub_symbol": "JFB",
+    "finnhub_raw_sym": "JFB",
+    "description": "JFB Construction Holdings",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 170,
+    "isin": "KYG5191U1206",
+    "sheet_symbol": "JL",
+    "finhub_symbol": "JL",
+    "finnhub_raw_sym": "JL",
+    "description": "J-Long Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 171,
+    "isin": "US48115J1097",
+    "sheet_symbol": "DERM",
+    "finhub_symbol": "DERM",
+    "finnhub_raw_sym": "DERM",
+    "description": "Journey Medical Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 172,
+    "isin": "KYG812371287",
+    "sheet_symbol": "YMAT",
+    "finhub_symbol": "YMAT",
+    "finnhub_raw_sym": "YMAT",
+    "description": "J-Star Holding Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 173,
+    "isin": "KYG5500K1022",
+    "sheet_symbol": "JLHL",
+    "finhub_symbol": "JLHL",
+    "finnhub_raw_sym": "JLHL",
+    "description": "Julong Holding Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 174,
+    "isin": "MHY460024018",
+    "sheet_symbol": "JXG",
+    "finhub_symbol": "JXG",
+    "finnhub_raw_sym": "JXG",
+    "description": "JX Luxventure Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 175,
+    "isin": "KYG5225N1007",
+    "sheet_symbol": "FMFC",
+    "finhub_symbol": "FMFC",
+    "finnhub_raw_sym": "FMFC",
+    "description": "Kandal M Venture Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 176,
+    "isin": "US4881522084",
+    "sheet_symbol": "KELYA",
+    "finhub_symbol": "KELYA",
+    "finnhub_raw_sym": "KELYA",
+    "description": "Kelly Services Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 177,
+    "isin": "US4881523074",
+    "sheet_symbol": "KELYB",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 178,
+    "isin": "US49428J1097",
+    "sheet_symbol": "KE",
+    "finhub_symbol": "KE",
+    "finnhub_raw_sym": "KE",
+    "description": "Kimball Electronics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 179,
+    "isin": "US5009461089",
+    "sheet_symbol": "KRRO",
+    "finhub_symbol": "KRRO",
+    "finnhub_raw_sym": "KRRO",
+    "description": "Korro Bio Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 180,
+    "isin": "VGG5321F1009",
+    "sheet_symbol": "KMRK",
+    "finhub_symbol": "KMRK",
+    "finnhub_raw_sym": "KMRK",
+    "description": "K-Tech Solutions Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 181,
+    "isin": "US3500601097",
+    "sheet_symbol": "FSTR",
+    "finhub_symbol": "FSTR",
+    "finnhub_raw_sym": "FSTR",
+    "description": "L B Foster Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 182,
+    "isin": "US51655R2004",
+    "sheet_symbol": "LNZA",
+    "finhub_symbol": "LNZA",
+    "finnhub_raw_sym": "LNZA",
+    "description": "Lanzatech Global Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 183,
+    "isin": "US52476L1098",
+    "sheet_symbol": "LGN",
+    "finhub_symbol": "LGN",
+    "finnhub_raw_sym": "LGN",
+    "description": "Legence Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 184,
+    "isin": "US5253301064",
+    "sheet_symbol": "LFS",
+    "finhub_symbol": "LFS",
+    "finnhub_raw_sym": "LFS",
+    "description": "Leifras Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 185,
+    "isin": "KYG5462C1069",
+    "sheet_symbol": "LSE",
+    "finhub_symbol": "LSE",
+    "finnhub_raw_sym": "LSE",
+    "description": "Leishen Energy Holding Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 186,
+    "isin": "KYG5480C1042",
+    "sheet_symbol": "LHSW",
+    "finhub_symbol": "LHSW",
+    "finnhub_raw_sym": "LHSW",
+    "description": "Lianhe Sowell International Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 187,
+    "isin": "US53263P1057",
+    "sheet_symbol": "LMB",
+    "finhub_symbol": "LMB",
+    "finnhub_raw_sym": "LMB",
+    "description": "Limbach Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 188,
+    "isin": "KYG5500B1288",
+    "sheet_symbol": "LGCB",
+    "finhub_symbol": "LGCB",
+    "finnhub_raw_sym": "LGCB",
+    "description": "Linkage Global Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 189,
+    "isin": "US53578M1027",
+    "sheet_symbol": "LHAI",
+    "finhub_symbol": "LHAI",
+    "finnhub_raw_sym": "LHAI",
+    "description": "Linkhome Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 190,
+    "isin": "US53635D2027",
+    "sheet_symbol": "LQDA",
+    "finhub_symbol": "LQDA",
+    "finnhub_raw_sym": "LQDA",
+    "description": "Liquidia Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 191,
+    "isin": "US5588681057",
+    "sheet_symbol": "MDGL",
+    "finhub_symbol": "MDGL",
+    "finnhub_raw_sym": "MDGL",
+    "description": "Madrigal Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 192,
+    "isin": "US55955D1000",
+    "sheet_symbol": "MGNI",
+    "finhub_symbol": "MGNI",
+    "finnhub_raw_sym": "MGNI",
+    "description": "Magnite Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 193,
+    "isin": "KYG57Y0E1004",
+    "sheet_symbol": "MAGH",
+    "finhub_symbol": "MAGH",
+    "finnhub_raw_sym": "MAGH",
+    "description": "Magnitude International Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 194,
+    "isin": "KYG6007A1004",
+    "sheet_symbol": "MSGY",
+    "finhub_symbol": "MSGY",
+    "finnhub_raw_sym": "MSGY",
+    "description": "Masonglory Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 195,
+    "isin": "KYG6005A1022",
+    "sheet_symbol": "MGRT",
+    "finhub_symbol": "MGRT",
+    "finnhub_raw_sym": "MGRT",
+    "description": "Mega Fortune Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 196,
+    "isin": "US59045L2051",
+    "sheet_symbol": "MRSN",
+    "finhub_symbol": "MRSN",
+    "finnhub_raw_sym": "MRSN",
+    "description": "Mersana Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 197,
+    "isin": "VGG6065C1216",
+    "sheet_symbol": "MFI",
+    "finhub_symbol": "MFI",
+    "finnhub_raw_sym": "MFI",
+    "description": "mF International Limited",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 198,
+    "isin": "VGG6209W1086",
+    "sheet_symbol": "MKDW",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 199,
+    "isin": "US60879E3099",
+    "sheet_symbol": "MNTS",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 200,
+    "isin": "US62011B2016",
+    "sheet_symbol": "MSGM",
+    "finhub_symbol": "MSGM",
+    "finnhub_raw_sym": "MSGM",
+    "description": "Motorsport Games Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 201,
+    "isin": "US6391931010",
+    "sheet_symbol": "NAVN",
+    "finhub_symbol": "NAVN",
+    "finnhub_raw_sym": "NAVN",
+    "description": "Navan Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 202,
+    "isin": "US63947X1019",
+    "sheet_symbol": "NCNO",
+    "finhub_symbol": "NCNO",
+    "finnhub_raw_sym": "NCNO",
+    "description": "nCino Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 203,
+    "isin": "US64051M7092",
+    "sheet_symbol": "NEON",
+    "finhub_symbol": "NEON",
+    "finnhub_raw_sym": "NEON",
+    "description": "Neonode Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 204,
+    "isin": "KYG6427C1087",
+    "sheet_symbol": "NTCL",
+    "finhub_symbol": "NTCL",
+    "finnhub_raw_sym": "NTCL",
+    "description": "NetClass Technology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 205,
+    "isin": "US64119N6085",
+    "sheet_symbol": "NTSK",
+    "finhub_symbol": "NTSK",
+    "finnhub_raw_sym": "NTSK",
+    "description": "Netskope Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 206,
+    "isin": "US64115A4022",
+    "sheet_symbol": "NTWK",
+    "finhub_symbol": "NTWK",
+    "finnhub_raw_sym": "NTWK",
+    "description": "NetSol Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 207,
+    "isin": "US78577G3011",
+    "sheet_symbol": "NWTG",
+    "finhub_symbol": "NWTG",
+    "finnhub_raw_sym": "NWTG",
+    "description": "Newton Golf Company Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 208,
+    "isin": "US9618843018",
+    "sheet_symbol": "NXTT",
+    "finhub_symbol": "NXTT",
+    "finnhub_raw_sym": "NXTT",
+    "description": "Next Technology Holding Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 209,
+    "isin": "US6529411059",
+    "sheet_symbol": "NXXT",
+    "finhub_symbol": "NXXT",
+    "finnhub_raw_sym": "NXXT",
+    "description": "NextNRG Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 210,
+    "isin": "JE00BYSS4X48",
+    "sheet_symbol": "NVCR",
+    "finhub_symbol": "NVCR",
+    "finnhub_raw_sym": "NVCR",
+    "description": "Novocure Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 211,
+    "isin": "US67421J2078",
+    "sheet_symbol": "OTLY",
+    "finhub_symbol": "OTLY",
+    "finnhub_raw_sym": "OTLY",
+    "description": "Oatly Group AB (publ)",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 212,
+    "isin": "KYG671871070",
+    "sheet_symbol": "OWLS",
+    "finhub_symbol": "OWLS",
+    "finnhub_raw_sym": "OWLS",
+    "description": "OBOOK Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 213,
+    "isin": "MHY6430L3019",
+    "sheet_symbol": "SVRN",
+    "finhub_symbol": "SVRN",
+    "finnhub_raw_sym": "SVRN",
+    "description": "Oceanpal Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 214,
+    "isin": "US6793691089",
+    "sheet_symbol": "OLPX",
+    "finhub_symbol": "OLPX",
+    "finnhub_raw_sym": "OLPX",
+    "description": "Olaplex Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 215,
+    "isin": "US68170A1088",
+    "sheet_symbol": "OMDA",
+    "finhub_symbol": "OMDA",
+    "finnhub_raw_sym": "OMDA",
+    "description": "Omada Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 216,
+    "isin": "KYG6755S1057",
+    "sheet_symbol": "OMSE",
+    "finhub_symbol": "OMSE",
+    "finnhub_raw_sym": "OMSE",
+    "description": "OMS Energy Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 217,
+    "isin": "KYG6772F1028",
+    "sheet_symbol": "YDDL",
+    "finhub_symbol": "YDDL",
+    "finnhub_raw_sym": "YDDL",
+    "description": "One and one Green Technologies.INC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 218,
+    "isin": "BSP736841136",
+    "sheet_symbol": "OSW",
+    "finhub_symbol": "OSW",
+    "finnhub_raw_sym": "OSW",
+    "description": "Onespaworld Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 219,
+    "isin": "US68375N1037",
+    "sheet_symbol": "OPK",
+    "finhub_symbol": "OPK",
+    "finnhub_raw_sym": "OPK",
+    "description": "OPKO Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 220,
+    "isin": "US6838272085",
+    "sheet_symbol": "OCC",
+    "finhub_symbol": "OCC",
+    "finnhub_raw_sym": "OCC",
+    "description": "Optical Cable Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 221,
+    "isin": "US67577R1023",
+    "sheet_symbol": "IRD",
+    "finhub_symbol": "IRD",
+    "finnhub_raw_sym": "IRD",
+    "description": "Opus Genetics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 222,
+    "isin": "US68621F1021",
+    "sheet_symbol": "ORGO",
+    "finhub_symbol": "ORGO",
+    "finnhub_raw_sym": "ORGO",
+    "description": "Organogenesis Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 223,
+    "isin": "VGG678282051",
+    "sheet_symbol": "SEED",
+    "finhub_symbol": "SEED",
+    "finnhub_raw_sym": "SEED",
+    "description": "Origin Agritech Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 224,
+    "isin": "US6710441055",
+    "sheet_symbol": "OSIS",
+    "finhub_symbol": "OSIS",
+    "finnhub_raw_sym": "OSIS",
+    "description": "OSI Systems Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 225,
+    "isin": "US68840D1028",
+    "sheet_symbol": "OSRH",
+    "finhub_symbol": "OSRH",
+    "finnhub_raw_sym": "OSRH",
+    "description": "OSR Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 226,
+    "isin": "US6937181088",
+    "sheet_symbol": "PCAR",
+    "finhub_symbol": "PCAR",
+    "finnhub_raw_sym": "PCAR",
+    "description": "Paccar Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 227,
+    "isin": "US6951271005",
+    "sheet_symbol": "PCRX",
+    "finhub_symbol": "PCRX",
+    "finnhub_raw_sym": "PCRX",
+    "description": "Pacira Biosciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 228,
+    "isin": "KYG6925R1020",
+    "sheet_symbol": "BYAH",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 229,
+    "isin": "US70339W1045",
+    "sheet_symbol": "PTRN",
+    "finhub_symbol": "PTRN",
+    "finnhub_raw_sym": "PTRN",
+    "description": "Pattern Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 230,
+    "isin": "US71360T2006",
+    "sheet_symbol": "PRSO",
+    "finhub_symbol": "PRSO",
+    "finnhub_raw_sym": "PRSO",
+    "description": "Peraso Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 231,
+    "isin": "US71367G1022",
+    "sheet_symbol": "PWP",
+    "finhub_symbol": "PWP",
+    "finnhub_raw_sym": "PWP",
+    "description": "Perella Weinberg Partners",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 232,
+    "isin": "KYG7075R1083",
+    "sheet_symbol": "PHOE",
+    "finhub_symbol": "PHOE",
+    "finnhub_raw_sym": "PHOE",
+    "description": "Phoenix Asia Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 233,
+    "isin": "US71989C1099",
+    "sheet_symbol": "PCLA",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 234,
+    "isin": "KYG7173H1011",
+    "sheet_symbol": "PFAI",
+    "finhub_symbol": "PFAI",
+    "finnhub_raw_sym": "PFAI",
+    "description": "Pinnacle Food Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 235,
+    "isin": "KYG712641086",
+    "sheet_symbol": "PLTS",
+    "finhub_symbol": "PLTS",
+    "finnhub_raw_sym": "PLTS",
+    "description": "Platinum Analytics Cayman Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 236,
+    "isin": "US72941H5090",
+    "sheet_symbol": "PSTV",
+    "finhub_symbol": "PSTV",
+    "finnhub_raw_sym": "PSTV",
+    "description": "Plus Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 237,
+    "isin": "US73933G2021",
+    "sheet_symbol": "PSIX",
+    "finhub_symbol": "PSIX",
+    "finnhub_raw_sym": "PSIX",
+    "description": "Power Solutions International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 238,
+    "isin": "KYG722282012",
+    "sheet_symbol": "PC",
+    "finhub_symbol": "PC",
+    "finnhub_raw_sym": "PC",
+    "description": "Premium Catering Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 239,
+    "isin": "SGXZ14489751",
+    "sheet_symbol": "PMEC",
+    "finhub_symbol": "PMEC",
+    "finnhub_raw_sym": "PMEC",
+    "description": "Primech Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 240,
+    "isin": "US74276L1052",
+    "sheet_symbol": "PRCT",
+    "finhub_symbol": "PRCT",
+    "finnhub_raw_sym": "PRCT",
+    "description": "Procept Biorobotics Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 241,
+    "isin": "US74317M1045",
+    "sheet_symbol": "PAL",
+    "finhub_symbol": "PAL",
+    "finnhub_raw_sym": "PAL",
+    "description": "Proficient Auto Logistics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 242,
+    "isin": "KYG7308J1132",
+    "sheet_symbol": "PSIG",
+    "finhub_symbol": "PSIG",
+    "finnhub_raw_sym": "PSIG",
+    "description": "PS International Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 243,
+    "isin": "US7458481014",
+    "sheet_symbol": "LUNG",
+    "finhub_symbol": "LUNG",
+    "finnhub_raw_sym": "LUNG",
+    "description": "Pulmonx Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 244,
+    "isin": "US74587V1070",
+    "sheet_symbol": "PBYI",
+    "finhub_symbol": "PBYI",
+    "finnhub_raw_sym": "PBYI",
+    "description": "Puma Biotechnology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 245,
+    "isin": "KYG7309R1149",
+    "sheet_symbol": "QMMM",
+    "finhub_symbol": "QMMM",
+    "finnhub_raw_sym": "QMMM",
+    "description": "QMMM Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 246,
+    "isin": "US74766Q1013",
+    "sheet_symbol": "QTRX",
+    "finhub_symbol": "QTRX",
+    "finnhub_raw_sym": "QTRX",
+    "description": "Quanterix Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 247,
+    "isin": "US7504911022",
+    "sheet_symbol": "RDNT",
+    "finhub_symbol": "RDNT",
+    "finnhub_raw_sym": "RDNT",
+    "description": "RadNet Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 248,
+    "isin": "US75340L1044",
+    "sheet_symbol": "RPID",
+    "finhub_symbol": "RPID",
+    "finnhub_raw_sym": "RPID",
+    "description": "Rapid Micro Biosystems Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 249,
+    "isin": "US75886F1075",
+    "sheet_symbol": "REGN",
+    "finhub_symbol": "REGN",
+    "finnhub_raw_sym": "REGN",
+    "description": "Regeneron Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 250,
+    "isin": "US7599161095",
+    "sheet_symbol": "RGEN",
+    "finhub_symbol": "RGEN",
+    "finnhub_raw_sym": "RGEN",
+    "description": "Repligen Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 251,
+    "isin": "US7609111072",
+    "sheet_symbol": "REFR",
+    "finhub_symbol": "REFR",
+    "finnhub_raw_sym": "REFR",
+    "description": "Research Frontiers Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 252,
+    "isin": "VGG752711330",
+    "sheet_symbol": "RETO",
+    "finhub_symbol": "RETO",
+    "finnhub_raw_sym": "RETO",
+    "description": "ReTo Eco-Solutions Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 253,
+    "isin": "GB00BQH8G337",
+    "sheet_symbol": "RZLV",
+    "finhub_symbol": "RZLV",
+    "finnhub_raw_sym": "RZLV",
+    "description": "Rezolve AI PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 254,
+    "isin": "VGG7555P1018",
+    "sheet_symbol": "ANPA",
+    "finhub_symbol": "ANPA",
+    "finnhub_raw_sym": "ANPA",
+    "description": "Rich Sparkle Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 255,
+    "isin": "US7672921050",
+    "sheet_symbol": "RIOT",
+    "finhub_symbol": "RIOT",
+    "finnhub_raw_sym": "RIOT",
+    "description": "Riot Platforms Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 256,
+    "isin": "US76954A1034",
+    "sheet_symbol": "RIVN",
+    "finhub_symbol": "RIVN",
+    "finnhub_raw_sym": "RIVN",
+    "description": "Rivian Automotive Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 257,
+    "isin": "KYG6693P1063",
+    "sheet_symbol": "AIIO",
+    "finhub_symbol": "NWTN",
+    "finnhub_raw_sym": "NWTN",
+    "description": "East Stone Acquisition Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 258,
+    "isin": "US77106A1088",
+    "sheet_symbol": "LAWR",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 259,
+    "isin": "US7731211089",
+    "sheet_symbol": "RKLB",
+    "finhub_symbol": "RKLB",
+    "finnhub_raw_sym": "RKLB",
+    "description": "Rocket Lab Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 260,
+    "isin": "US02369M1027",
+    "sheet_symbol": "RMCO",
+    "finhub_symbol": "RMCO",
+    "finnhub_raw_sym": "RMCO",
+    "description": "Royalty Management Holding Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 261,
+    "isin": "KYG7710T1058",
+    "sheet_symbol": "RYET",
+    "finhub_symbol": "RYET",
+    "finnhub_raw_sym": "RYET",
+    "description": "Ruanyun Edai Technology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 262,
+    "isin": "JP3976100002",
+    "sheet_symbol": "RYOJ",
+    "finhub_symbol": "RYOJ",
+    "finnhub_raw_sym": "RYOJ",
+    "description": "rYojbaba Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 263,
+    "isin": "US39366L3078",
+    "sheet_symbol": "RVYL",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 264,
+    "isin": "US78781J1097",
+    "sheet_symbol": "SAIL",
+    "finhub_symbol": "SAIL",
+    "finnhub_raw_sym": "SAIL",
+    "description": "SailPoint Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 265,
+    "isin": "US80004C2008",
+    "sheet_symbol": "SNDK",
+    "finhub_symbol": "SNDK",
+    "finnhub_raw_sym": "SNDK",
+    "description": "Sandisk Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 266,
+    "isin": "US80303D3052",
+    "sheet_symbol": "SNWV",
+    "finhub_symbol": "SNWV",
+    "finnhub_raw_sym": "SNWV",
+    "description": "SANUWAVE Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 267,
+    "isin": "US80603V1044",
+    "sheet_symbol": "STAI",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 268,
+    "isin": "US80880X1046",
+    "sheet_symbol": "SCNX",
+    "finhub_symbol": "SCNX",
+    "finnhub_raw_sym": "SCNX",
+    "description": "Scienture Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 269,
+    "isin": "IE00BKVD2N49",
+    "sheet_symbol": "STX",
+    "finhub_symbol": "STX",
+    "finnhub_raw_sym": "STX",
+    "description": "Seagate Technology Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 270,
+    "isin": "US8166452040",
+    "sheet_symbol": "LEDS",
+    "finhub_symbol": "LEDS",
+    "finnhub_raw_sym": "LEDS",
+    "description": "SemiLEDs Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 271,
+    "isin": "US8168501018",
+    "sheet_symbol": "SMTC",
+    "finhub_symbol": "SMTC",
+    "finnhub_raw_sym": "SMTC",
+    "description": "Semtech Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 272,
+    "isin": "US82657M1053",
+    "sheet_symbol": "SGHT",
+    "finhub_symbol": "SGHT",
+    "finnhub_raw_sym": "SGHT",
+    "description": "Sight Sciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 273,
+    "isin": "US82728C1027",
+    "sheet_symbol": "SVCO",
+    "finhub_symbol": "SVCO",
+    "finnhub_raw_sym": "SVCO",
+    "description": "Silvaco Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 274,
+    "isin": "KYG8211A1085",
+    "sheet_symbol": "EDTK",
+    "finhub_symbol": "EDTK",
+    "finnhub_raw_sym": "EDTK",
+    "description": "Skillful Craftsman Education Technology Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 275,
+    "isin": "KYG8221K1123",
+    "sheet_symbol": "PN",
+    "finhub_symbol": "PN",
+    "finnhub_raw_sym": "PN",
+    "description": "Skycorp Solar Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 276,
+    "isin": "KYG821951012",
+    "sheet_symbol": "SLGB",
+    "finhub_symbol": "SLGB",
+    "finnhub_raw_sym": "SLGB",
+    "description": "Smart Logistics Global Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 277,
+    "isin": "US83193D2036",
+    "sheet_symbol": "SMTK",
+    "finhub_symbol": "SMTK",
+    "finnhub_raw_sym": "SMTK",
+    "description": "SmartKem Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 278,
+    "isin": "US83410S1087",
+    "sheet_symbol": "SOHU",
+    "finhub_symbol": "SOHU",
+    "finnhub_raw_sym": "SOHU",
+    "description": "Sohu.com Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 279,
+    "isin": "US42328V8761",
+    "sheet_symbol": "HSDT",
+    "finhub_symbol": "HSDT",
+    "finnhub_raw_sym": "HSDT",
+    "description": "Solana Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 280,
+    "isin": "US6300791018",
+    "sheet_symbol": "SLSN",
+    "finhub_symbol": "SLSN",
+    "finnhub_raw_sym": "SLSN",
+    "description": "Solesence Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 281,
+    "isin": "US8342122012",
+    "sheet_symbol": "STI",
+    "finhub_symbol": "STI",
+    "finnhub_raw_sym": "STI",
+    "description": "Solidion Technology Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 282,
+    "isin": "US83443Q1031",
+    "sheet_symbol": "SOLS",
+    "finhub_symbol": "SOLS",
+    "finnhub_raw_sym": "SOLS",
+    "description": "Solstice Advanced Materials Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 283,
+    "isin": "NL0015002AM0",
+    "sheet_symbol": "SSM",
+    "finhub_symbol": "SSM",
+    "finnhub_raw_sym": "SSM",
+    "description": "Sono Group NV",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 284,
+    "isin": "US83558L3033",
+    "sheet_symbol": "SNOA",
+    "finhub_symbol": "SNOA",
+    "finnhub_raw_sym": "SNOA",
+    "description": "Sonoma Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 285,
+    "isin": "US84612H1068",
+    "sheet_symbol": "SOWG",
+    "finhub_symbol": "SOWG",
+    "finnhub_raw_sym": "SOWG",
+    "description": "Sow Good Inc (Pre-Reincorporation)",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 286,
+    "isin": "US84863T1060",
+    "sheet_symbol": "SPOK",
+    "finhub_symbol": "SPOK",
+    "finnhub_raw_sym": "SPOK",
+    "description": "Spok Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 287,
+    "isin": "US85209W1099",
+    "sheet_symbol": "SPT",
+    "finhub_symbol": "SPT",
+    "finnhub_raw_sym": "SPT",
+    "description": "Sprout Social Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 288,
+    "isin": "US05453U2033",
+    "sheet_symbol": "SSII",
+    "finhub_symbol": "SSII",
+    "finnhub_raw_sym": "SSII",
+    "description": "SS Innovations International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 289,
+    "isin": "US4437873049",
+    "sheet_symbol": "STRRP",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 290,
+    "isin": "MHY816691064",
+    "sheet_symbol": "GASS",
+    "finhub_symbol": "GASS",
+    "finnhub_raw_sym": "GASS",
+    "description": "StealthGas Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 291,
+    "isin": "US0926671043",
+    "sheet_symbol": "SRTA",
+    "finhub_symbol": "SRTA",
+    "finnhub_raw_sym": "SRTA",
+    "description": "Strata Critical Medical Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 292,
+    "isin": "US5949728878",
+    "sheet_symbol": "STRK",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 293,
+    "isin": "US5949728795",
+    "sheet_symbol": "STRF",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 294,
+    "isin": "US8662642037",
+    "sheet_symbol": "SSBI",
+    "finhub_symbol": "SSBI",
+    "finnhub_raw_sym": "SSBI",
+    "description": "Summit State Bank",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 295,
+    "isin": "US86882L2043",
+    "sheet_symbol": "SURG",
+    "finhub_symbol": "SURG",
+    "finnhub_raw_sym": "SURG",
+    "description": "Surgepays Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 296,
+    "isin": "US87583X1090",
+    "sheet_symbol": "TNGX",
+    "finhub_symbol": "TNGX",
+    "finnhub_raw_sym": "TNGX",
+    "description": "Tango Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 297,
+    "isin": "US6744343038",
+    "sheet_symbol": "TWAV",
+    "finhub_symbol": "TWAV",
+    "finnhub_raw_sym": "TWAV",
+    "description": "TaoWeave Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 298,
+    "isin": "US87615L1070",
+    "sheet_symbol": "TH",
+    "finhub_symbol": "TH",
+    "finnhub_raw_sym": "TH",
+    "description": "Target Hospitality Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 299,
+    "isin": "US87650L1035",
+    "sheet_symbol": "TARS",
+    "finhub_symbol": "TARS",
+    "finnhub_raw_sym": "TARS",
+    "description": "Tarsus Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 300,
+    "isin": "US87874R3084",
+    "sheet_symbol": "TTGT",
+    "finhub_symbol": "TTGT",
+    "finnhub_raw_sym": "TTGT",
+    "description": "TechTarget Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 301,
+    "isin": "US8802452040",
+    "sheet_symbol": "XHLD",
+    "finhub_symbol": "XHLD",
+    "finnhub_raw_sym": "XHLD",
+    "description": "TEN Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 302,
+    "isin": "US88066N3035",
+    "sheet_symbol": "TNON",
+    "finhub_symbol": "TNON",
+    "finnhub_raw_sym": "TNON",
+    "description": "Tenon Medical Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 303,
+    "isin": "KYG4149Y1026",
+    "sheet_symbol": "TGHL",
+    "finhub_symbol": "TGHL",
+    "finnhub_raw_sym": "TGHL",
+    "description": "Growhub Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 304,
+    "isin": "US67086U4067",
+    "sheet_symbol": "OLB",
+    "finhub_symbol": "OLB",
+    "finnhub_raw_sym": "OLB",
+    "description": "OLB Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 305,
+    "isin": "CA8849038085",
+    "sheet_symbol": "TRI",
+    "finhub_symbol": "TRI.TO",
+    "finnhub_raw_sym": "TRI.TO",
+    "description": "Thomson Reuters Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 306,
+    "isin": "US88631G2057",
+    "sheet_symbol": "CIIT",
+    "finhub_symbol": "CIIT",
+    "finnhub_raw_sym": "CIIT",
+    "description": "Tianci International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 307,
+    "isin": "US8929181035",
+    "sheet_symbol": "TACT",
+    "finhub_symbol": "TACT",
+    "finnhub_raw_sym": "TACT",
+    "description": "TransAct Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 308,
+    "isin": "US89422G1076",
+    "sheet_symbol": "TVTX",
+    "finhub_symbol": "TVTX",
+    "finnhub_raw_sym": "TVTX",
+    "description": "Travere Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 309,
+    "isin": "US90400D1081",
+    "sheet_symbol": "RARE",
+    "finhub_symbol": "RARE",
+    "finnhub_raw_sym": "RARE",
+    "description": "Ultragenyx Pharmaceutical Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 310,
+    "isin": "US92259N3026",
+    "sheet_symbol": "VELO",
+    "finhub_symbol": "VELO",
+    "finnhub_raw_sym": "VELO",
+    "description": "Velo3D Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 311,
+    "isin": "US92511U1025",
+    "sheet_symbol": "VRRM",
+    "finhub_symbol": "VRRM",
+    "finnhub_raw_sym": "VRRM",
+    "description": "Verra Mobility Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 312,
+    "isin": "US98740Y3027",
+    "sheet_symbol": "VSTD",
+    "finhub_symbol": "VSTD",
+    "finnhub_raw_sym": "VSTD",
+    "description": "Vestand Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 313,
+    "isin": "US92762J1034",
+    "sheet_symbol": "VIOT",
+    "finhub_symbol": "VIOT",
+    "finnhub_raw_sym": "VIOT",
+    "description": "Viomi Technology Co Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 314,
+    "isin": "US9182841000",
+    "sheet_symbol": "VSEC",
+    "finhub_symbol": "VSEC",
+    "finnhub_raw_sym": "VSEC",
+    "description": "VSE Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 315,
+    "isin": "US92919Y1029",
+    "sheet_symbol": "VSEE",
+    "finhub_symbol": "VSEE",
+    "finnhub_raw_sym": "VSEE",
+    "description": "Vsee Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 316,
+    "isin": "US92943X1046",
+    "sheet_symbol": "HIND",
+    "finhub_symbol": "HIND",
+    "finnhub_raw_sym": "HIND",
+    "description": "Vyome Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 317,
+    "isin": "KYG9627R1074",
+    "sheet_symbol": "WFF",
+    "finhub_symbol": "WFF",
+    "finnhub_raw_sym": "WFF",
+    "description": "WF Holding Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 318,
+    "isin": "US94845U1051",
+    "sheet_symbol": "WBTN",
+    "finhub_symbol": "WBTN",
+    "finnhub_raw_sym": "WBTN",
+    "description": "Webtoon Entertainment Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 319,
+    "isin": "KYG9513A1013",
+    "sheet_symbol": "WETO",
+    "finhub_symbol": "WETO",
+    "finnhub_raw_sym": "WETO",
+    "description": "Webus International Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 320,
+    "isin": "US9495031067",
+    "sheet_symbol": "WGRX",
+    "finhub_symbol": "WGRX",
+    "finnhub_raw_sym": "WGRX",
+    "description": "Wellgistics Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 321,
+    "isin": "US9581021055",
+    "sheet_symbol": "WDC",
+    "finhub_symbol": "WDC",
+    "finnhub_raw_sym": "WDC",
+    "description": "Western Digital Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 322,
+    "isin": "KYG9627S1057",
+    "sheet_symbol": "WXM",
+    "finhub_symbol": "WXM",
+    "finnhub_raw_sym": "WXM",
+    "description": "WF International Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 323,
+    "isin": "KYG961151035",
+    "sheet_symbol": "WYFI",
+    "finhub_symbol": "WYFI",
+    "finnhub_raw_sym": "WYFI",
+    "description": "WhiteFiber Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 324,
+    "isin": "US98262P2002",
+    "sheet_symbol": "WW",
+    "finhub_symbol": "WW",
+    "finnhub_raw_sym": "WW",
+    "description": "WW International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 325,
+    "isin": "US9840156023",
+    "sheet_symbol": "XBIO",
+    "finhub_symbol": "XBIO",
+    "finnhub_raw_sym": "XBIO",
+    "description": "Xenetic Biosciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 326,
+    "isin": "US66979P3001",
+    "sheet_symbol": "XWIN",
+    "finhub_symbol": "XWIN",
+    "finnhub_raw_sym": "XWIN",
+    "description": "XMax Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 327,
+    "isin": "US9859151071",
+    "sheet_symbol": "YMT",
+    "finhub_symbol": "YMT",
+    "finnhub_raw_sym": "YMT",
+    "description": "Yimutian Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 328,
+    "isin": "US98944F1093",
+    "sheet_symbol": "ZEO",
+    "finhub_symbol": "ZEO",
+    "finnhub_raw_sym": "ZEO",
+    "description": "Zeo Energy Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 329,
+    "isin": "US01609W1027",
+    "sheet_symbol": "BABA",
+    "finhub_symbol": "BABA",
+    "finnhub_raw_sym": "BABA",
+    "description": "Alibaba Group Holding Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 330,
+    "isin": "US0231931058",
+    "sheet_symbol": "AMBQ",
+    "finhub_symbol": "AMBQ",
+    "finnhub_raw_sym": "AMBQ",
+    "description": "Ambiq Micro Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 331,
+    "isin": "US03044L2043",
+    "sheet_symbol": "AMWL",
+    "finhub_symbol": "AMWL",
+    "finnhub_raw_sym": "AMWL",
+    "description": "American Well Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 332,
+    "isin": "CH1430134226",
+    "sheet_symbol": "AMRZ",
+    "finhub_symbol": "AMRZ.SW",
+    "finnhub_raw_sym": "AMRZ.SW",
+    "description": "Amrize AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 333,
+    "isin": "US03674X1063",
+    "sheet_symbol": "AR",
+    "finhub_symbol": "AR",
+    "finnhub_raw_sym": "AR",
+    "description": "Antero Resources Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 334,
+    "isin": "US00187Y1001",
+    "sheet_symbol": "APG",
+    "finhub_symbol": "APG",
+    "finnhub_raw_sym": "APG",
+    "description": "APi Group Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 335,
+    "isin": "US2289031005",
+    "sheet_symbol": "AORT",
+    "finhub_symbol": "AORT",
+    "finnhub_raw_sym": "AORT",
+    "description": "Artivion Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 336,
+    "isin": "US01741R1023",
+    "sheet_symbol": "ATI",
+    "finhub_symbol": "ATI",
+    "finnhub_raw_sym": "ATI",
+    "description": "ATI Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 337,
+    "isin": "US0024741045",
+    "sheet_symbol": "AZZ",
+    "finhub_symbol": "AZZ",
+    "finnhub_raw_sym": "AZZ",
+    "description": "AZZ Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 338,
+    "isin": "US0774541066",
+    "sheet_symbol": "BDC",
+    "finhub_symbol": "BDC",
+    "finnhub_raw_sym": "BDC",
+    "description": "Belden Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 339,
+    "isin": "US05601C1053",
+    "sheet_symbol": "BGSF",
+    "finhub_symbol": "BGSF",
+    "finnhub_raw_sym": "BGSF",
+    "description": "BGSF Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 340,
+    "isin": "US08975B1098",
+    "sheet_symbol": "BBAI",
+    "finhub_symbol": "BBAI",
+    "finnhub_raw_sym": "BBAI",
+    "description": "BigBear.ai Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 341,
+    "isin": "KYG169101204",
+    "sheet_symbol": "BLSH",
+    "finhub_symbol": "BLSH",
+    "finnhub_raw_sym": "BLSH",
+    "description": "Bullish",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 342,
+    "isin": "US1271903049",
+    "sheet_symbol": "CACI",
+    "finhub_symbol": "CACI",
+    "finnhub_raw_sym": "CACI",
+    "description": "CACI International Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 343,
+    "isin": "US14149Y1082",
+    "sheet_symbol": "CAH",
+    "finhub_symbol": "CAH",
+    "finnhub_raw_sym": "CAH",
+    "description": "Cardinal Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 344,
+    "isin": "US1468691027",
+    "sheet_symbol": "CVNA",
+    "finhub_symbol": "CVNA",
+    "finnhub_raw_sym": "CVNA",
+    "description": "Carvana Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 345,
+    "isin": "US1489291021",
+    "sheet_symbol": "CAVA",
+    "finhub_symbol": "CAVA",
+    "finnhub_raw_sym": "CAVA",
+    "description": "CAVA Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 346,
+    "isin": "US12504L1098",
+    "sheet_symbol": "CBRE",
+    "finhub_symbol": "CBRE",
+    "finnhub_raw_sym": "CBRE",
+    "description": "CBRE Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 347,
+    "isin": "CA12532H1047",
+    "sheet_symbol": "GIB",
+    "finhub_symbol": "GIB.A.TO",
+    "finnhub_raw_sym": "GIB.A.TO",
+    "description": "CGI Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 348,
+    "isin": "US15746L1008",
+    "sheet_symbol": "CBNA",
+    "finhub_symbol": "CBNA",
+    "finnhub_raw_sym": "CBNA",
+    "description": "Chain Bridge Bancorp Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 349,
+    "isin": "US1630921096",
+    "sheet_symbol": "CHGG",
+    "finhub_symbol": "CHGG",
+    "finnhub_raw_sym": "CHGG",
+    "description": "Chegg Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 350,
+    "isin": "US17133Q5027",
+    "sheet_symbol": "CHT",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 351,
+    "isin": "US1921085049",
+    "sheet_symbol": "CDE",
+    "finhub_symbol": "CDE",
+    "finnhub_raw_sym": "CDE",
+    "description": "Coeur Mining Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 352,
+    "isin": "US19247G1076",
+    "sheet_symbol": "COHR",
+    "finhub_symbol": "COHR",
+    "finnhub_raw_sym": "COHR",
+    "description": "Coherent Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 353,
+    "isin": "US22266M1045",
+    "sheet_symbol": "COUR",
+    "finhub_symbol": "COUR",
+    "finnhub_raw_sym": "COUR",
+    "description": "Coursera Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 354,
+    "isin": "US2561352038",
+    "sheet_symbol": "RDY",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 355,
+    "isin": "US26152H3012",
+    "sheet_symbol": "DRD",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 356,
+    "isin": "US2641471097",
+    "sheet_symbol": "DCO",
+    "finhub_symbol": "DCO",
+    "finnhub_raw_sym": "DCO",
+    "description": "Ducommun Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 357,
+    "isin": "US28618M1062",
+    "sheet_symbol": "ESI",
+    "finhub_symbol": "ESI",
+    "finnhub_raw_sym": "ESI",
+    "description": "Element Solutions Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 358,
+    "isin": "US29280W1099",
+    "sheet_symbol": "NRGV",
+    "finhub_symbol": "NRGV",
+    "finnhub_raw_sym": "NRGV",
+    "description": "Energy Vault Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 359,
+    "isin": "US29275Y1029",
+    "sheet_symbol": "ENS",
+    "finhub_symbol": "ENS",
+    "finnhub_raw_sym": "ENS",
+    "description": "EnerSys",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 360,
+    "isin": "US26916J2050",
+    "sheet_symbol": "GWH",
+    "finhub_symbol": "GWH",
+    "finnhub_raw_sym": "GWH",
+    "description": "ESS Tech Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 361,
+    "isin": "US3429091081",
+    "sheet_symbol": "FLOC",
+    "finhub_symbol": "FLOC",
+    "finnhub_raw_sym": "FLOC",
+    "description": "Flowco Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 362,
+    "isin": "CA3518581051",
+    "sheet_symbol": "FNV",
+    "finhub_symbol": "FNV.TO",
+    "finnhub_raw_sym": "FNV.TO",
+    "description": "Franco-Nevada Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 363,
+    "isin": "KYG367381053",
+    "sheet_symbol": "FDP",
+    "finhub_symbol": "FDP",
+    "finnhub_raw_sym": "FDP",
+    "description": "Fresh Del Monte Produce Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 364,
+    "isin": "US36170N1072",
+    "sheet_symbol": "GCTS",
+    "finhub_symbol": "GCTS",
+    "finnhub_raw_sym": "GCTS",
+    "description": "GCT Semiconductor Holding Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 365,
+    "isin": "GG00BMF1JR16",
+    "sheet_symbol": "GENI",
+    "finhub_symbol": "GENI",
+    "finnhub_raw_sym": "GENI",
+    "description": "Genius Sports Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 366,
+    "isin": "US38059T1060",
+    "sheet_symbol": "GFI",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 367,
+    "isin": "US39854F1012",
+    "sheet_symbol": "GRND",
+    "finhub_symbol": "GRND",
+    "finnhub_raw_sym": "GRND",
+    "description": "Grindr Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 368,
+    "isin": "US4005061019",
+    "sheet_symbol": "PAC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 369,
+    "isin": "US4212981009",
+    "sheet_symbol": "HAYW",
+    "finhub_symbol": "HAYW",
+    "finnhub_raw_sym": "HAYW",
+    "description": "Hayward Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 370,
+    "isin": "US4227042052",
+    "sheet_symbol": "HL.PRB",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 371,
+    "isin": "US4330001060",
+    "sheet_symbol": "HIMS",
+    "finhub_symbol": "HIMS",
+    "finnhub_raw_sym": "HIMS",
+    "description": "Hims & Hers Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 372,
+    "isin": "US4333131039",
+    "sheet_symbol": "HNGE",
+    "finhub_symbol": "HNGE",
+    "finnhub_raw_sym": "HNGE",
+    "description": "Hinge Health Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 373,
+    "isin": "US4569411030",
+    "sheet_symbol": "INR",
+    "finhub_symbol": "INR",
+    "finnhub_raw_sym": "INR",
+    "description": "Infinity Natural Resources Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 374,
+    "isin": "US4571871023",
+    "sheet_symbol": "INGR",
+    "finhub_symbol": "INGR",
+    "finnhub_raw_sym": "INGR",
+    "description": "Ingredion Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 375,
+    "isin": "US4595061015",
+    "sheet_symbol": "IFF",
+    "finhub_symbol": "IFF",
+    "finnhub_raw_sym": "IFF",
+    "description": "International Flavors & Fragrances Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 376,
+    "isin": "IE000R94NGM2",
+    "sheet_symbol": "JHX",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 377,
+    "isin": "US48020Q1076",
+    "sheet_symbol": "JLL",
+    "finhub_symbol": "JLL",
+    "finnhub_raw_sym": "JLL",
+    "description": "Jones Lang LaSalle Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 378,
+    "isin": "US4859241048",
+    "sheet_symbol": "KRMN",
+    "finhub_symbol": "KRMN",
+    "finnhub_raw_sym": "KRMN",
+    "description": "Karman Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 379,
+    "isin": "US5049221055",
+    "sheet_symbol": "LH",
+    "finhub_symbol": "LH",
+    "finnhub_raw_sym": "LH",
+    "description": "Labcorp Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 380,
+    "isin": "US53838J1051",
+    "sheet_symbol": "LVWR",
+    "finhub_symbol": "LVWR",
+    "finnhub_raw_sym": "LVWR",
+    "description": "LiveWire Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 381,
+    "isin": "US55305B1017",
+    "sheet_symbol": "MHO",
+    "finhub_symbol": "MHO",
+    "finnhub_raw_sym": "MHO",
+    "description": "M/I Homes Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 382,
+    "isin": "US5596631094",
+    "sheet_symbol": "MGY",
+    "finhub_symbol": "MGY",
+    "finnhub_raw_sym": "MGY",
+    "description": "Magnolia Oil & Gas Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 383,
+    "isin": "KYG5784H1065",
+    "sheet_symbol": "MANU",
+    "finhub_symbol": "MANU",
+    "finnhub_raw_sym": "MANU",
+    "description": "Manchester United PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 384,
+    "isin": "US57636Q1040",
+    "sheet_symbol": "MA",
+    "finhub_symbol": "MA",
+    "finnhub_raw_sym": "MA",
+    "description": "Mastercard Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 385,
+    "isin": "US58039P3055",
+    "sheet_symbol": "MUX",
+    "finhub_symbol": "MUX",
+    "finnhub_raw_sym": "MUX",
+    "description": "McEwen Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 386,
+    "isin": "US55318A1088",
+    "sheet_symbol": "MNTN",
+    "finhub_symbol": "MNTN",
+    "finnhub_raw_sym": "MNTN",
+    "description": "MNTN Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 387,
+    "isin": "US6153691059",
+    "sheet_symbol": "MCO",
+    "finhub_symbol": "MCO",
+    "finnhub_raw_sym": "MCO",
+    "description": "Moody's Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 388,
+    "isin": "US6549022043",
+    "sheet_symbol": "NOK",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 389,
+    "isin": "US69553P1003",
+    "sheet_symbol": "PD",
+    "finhub_symbol": "PD",
+    "finnhub_raw_sym": "PD",
+    "description": "PagerDuty Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 390,
+    "isin": "US6988841036",
+    "sheet_symbol": "PAR",
+    "finhub_symbol": "PAR",
+    "finnhub_raw_sym": "PAR",
+    "description": "PAR Technology Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 391,
+    "isin": "US70439P1084",
+    "sheet_symbol": "PAY",
+    "finhub_symbol": "PAY",
+    "finnhub_raw_sym": "PAY",
+    "description": "Paymentus Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 392,
+    "isin": "US7189681007",
+    "sheet_symbol": "PXED",
+    "finhub_symbol": "PXED",
+    "finnhub_raw_sym": "PXED",
+    "description": "Phoenix Education Partners Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 393,
+    "isin": "US72703H1014",
+    "sheet_symbol": "PLNT",
+    "finhub_symbol": "PLNT",
+    "finnhub_raw_sym": "PLNT",
+    "description": "Planet Fitness Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 394,
+    "isin": "US74164F1030",
+    "sheet_symbol": "PRIM",
+    "finhub_symbol": "PRIM",
+    "finnhub_raw_sym": "PRIM",
+    "description": "Primoris Services Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 395,
+    "isin": "US7156841063",
+    "sheet_symbol": "TLK",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 396,
+    "isin": "US92552R4065",
+    "sheet_symbol": "PRSU",
+    "finhub_symbol": "PRSU",
+    "finnhub_raw_sym": "PRSU",
+    "description": "Pursuit Attractions and Hospitality Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 397,
+    "isin": "US74736L1098",
+    "sheet_symbol": "QTWO",
+    "finhub_symbol": "QTWO",
+    "finnhub_raw_sym": "QTWO",
+    "description": "Q2 Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 398,
+    "isin": "US74743L1008",
+    "sheet_symbol": "Q",
+    "finhub_symbol": "Q",
+    "finnhub_raw_sym": "Q",
+    "description": "Qnity Electronics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 399,
+    "isin": "US7509401086",
+    "sheet_symbol": "RAL",
+    "finhub_symbol": "RAL",
+    "finnhub_raw_sym": "RAL",
+    "description": "Ralliant Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 400,
+    "isin": "CA74935Q1072",
+    "sheet_symbol": "RBA",
+    "finhub_symbol": "RBA.TO",
+    "finnhub_raw_sym": "RBA.TO",
+    "description": "RB Global Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 401,
+    "isin": "US7601251041",
+    "sheet_symbol": "RTO",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 402,
+    "isin": "US7710491033",
+    "sheet_symbol": "RBLX",
+    "finhub_symbol": "RBLX",
+    "finnhub_raw_sym": "RBLX",
+    "description": "Roblox Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 403,
+    "isin": "US80007P8692",
+    "sheet_symbol": "SD",
+    "finhub_symbol": "SD",
+    "finnhub_raw_sym": "SD",
+    "description": "SandRidge Energy Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 404,
+    "isin": "BMG7997W1029",
+    "sheet_symbol": "SDRL",
+    "finhub_symbol": "SDRL",
+    "finnhub_raw_sym": "SDRL",
+    "description": "Seadrill Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 405,
+    "isin": "US8190471016",
+    "sheet_symbol": "SHAK",
+    "finhub_symbol": "SHAK",
+    "finnhub_raw_sym": "SHAK",
+    "description": "Shake Shack Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 406,
+    "isin": "US82537J1088",
+    "sheet_symbol": "SI",
+    "finhub_symbol": "SI",
+    "finnhub_raw_sym": "SI",
+    "description": "Shoulder Innovations Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 407,
+    "isin": "US8334451098",
+    "sheet_symbol": "SNOW",
+    "finhub_symbol": "SNOW",
+    "finnhub_raw_sym": "SNOW",
+    "description": "Snowflake Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 408,
+    "isin": "US8336351056",
+    "sheet_symbol": "SQM",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 409,
+    "isin": "US8447411088",
+    "sheet_symbol": "LUV",
+    "finhub_symbol": "LUV",
+    "finnhub_raw_sym": "LUV",
+    "description": "Southwest Airlines Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 410,
+    "isin": "US84790A1051",
+    "sheet_symbol": "SPB",
+    "finhub_symbol": "SPB",
+    "finnhub_raw_sym": "SPB",
+    "description": "Spectrum Brands Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 411,
+    "isin": "US8485603067",
+    "sheet_symbol": "SPIR",
+    "finhub_symbol": "SPIR",
+    "finnhub_raw_sym": "SPIR",
+    "description": "Spire Global Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 412,
+    "isin": "US85423L1035",
+    "sheet_symbol": "SARO",
+    "finhub_symbol": "SARO",
+    "finnhub_raw_sym": "SARO",
+    "description": "StandardAero, Inc.",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 413,
+    "isin": "US8740391003",
+    "sheet_symbol": "TSM",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 414,
+    "isin": "US8790801091",
+    "sheet_symbol": "TRC",
+    "finhub_symbol": "TRC",
+    "finnhub_raw_sym": "TRC",
+    "description": "Tejon Ranch Co",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 415,
+    "isin": "BE6360403164",
+    "sheet_symbol": "TTAM",
+    "finhub_symbol": "TTAM",
+    "finnhub_raw_sym": "TTAM",
+    "description": "Titan America SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 416,
+    "isin": "US87256C1018",
+    "sheet_symbol": "TKO",
+    "finhub_symbol": "TKO",
+    "finnhub_raw_sym": "TKO",
+    "description": "TKO Group Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 417,
+    "isin": "US8887871080",
+    "sheet_symbol": "TOST",
+    "finhub_symbol": "TOST",
+    "finnhub_raw_sym": "TOST",
+    "description": "Toast Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 418,
+    "isin": "US8938702045",
+    "sheet_symbol": "TGS",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 419,
+    "isin": "US8946501009",
+    "sheet_symbol": "TG",
+    "finhub_symbol": "TG",
+    "finnhub_raw_sym": "TG",
+    "description": "Tredegar Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 420,
+    "isin": "US9108734057",
+    "sheet_symbol": "UMC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 421,
+    "isin": "US91912E1055",
+    "sheet_symbol": "VALE",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 422,
+    "isin": "US9224751084",
+    "sheet_symbol": "VEEV",
+    "finhub_symbol": "VEEV",
+    "finnhub_raw_sym": "VEEV",
+    "description": "Veeva Systems Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 423,
+    "isin": "US92556W1045",
+    "sheet_symbol": "VIA",
+    "finhub_symbol": "VIA",
+    "finnhub_raw_sym": "VIA",
+    "description": "Via Transportation Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 424,
+    "isin": "BMG93A5A1010",
+    "sheet_symbol": "VIK",
+    "finhub_symbol": "VIK",
+    "finnhub_raw_sym": "VIK",
+    "description": "Viking Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 425,
+    "isin": "US92826C8394",
+    "sheet_symbol": "V",
+    "finhub_symbol": "V",
+    "finnhub_raw_sym": "V",
+    "description": "Visa Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 426,
+    "isin": "US92892B1035",
+    "sheet_symbol": "VOYG",
+    "finhub_symbol": "VOYG",
+    "finnhub_raw_sym": "VOYG",
+    "description": "Voyager Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 427,
+    "isin": "US97651M1099",
+    "sheet_symbol": "WIT",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 428,
+    "isin": "US97785W1062",
+    "sheet_symbol": "WOLF",
+    "finhub_symbol": "WOLF",
+    "finnhub_raw_sym": "WOLF",
+    "description": "Wolfspeed Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 429,
+    "isin": "US9802283088",
+    "sheet_symbol": "WDS",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 430,
+    "isin": "US98139A1051",
+    "sheet_symbol": "WK",
+    "finhub_symbol": "WK",
+    "finnhub_raw_sym": "WK",
+    "description": "Workiva Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 431,
+    "isin": "US9837931008",
+    "sheet_symbol": "XPO",
+    "finhub_symbol": "XPO",
+    "finnhub_raw_sym": "XPO",
+    "description": "XPO Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 432,
+    "isin": "US44183U3086",
+    "sheet_symbol": "AGIG",
+    "finhub_symbol": "AGIG",
+    "finnhub_raw_sym": "AGIG",
+    "description": "Abundia Global Impact Group Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 433,
+    "isin": "US09175A2069",
+    "sheet_symbol": "BMNR",
+    "finhub_symbol": "BMNR",
+    "finnhub_raw_sym": "BMNR",
+    "description": "Bitmine Immersion Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 434,
+    "isin": "KYG1311F1191",
+    "sheet_symbol": "BQ",
+    "finhub_symbol": "BQ",
+    "finnhub_raw_sym": "BQ",
+    "description": "Boqii Holding Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 435,
+    "isin": "US12482W4087",
+    "sheet_symbol": "YCBD",
+    "finhub_symbol": "YCBD",
+    "finnhub_raw_sym": "YCBD",
+    "description": "cbdMD Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 436,
+    "isin": "KYG2124J1085",
+    "sheet_symbol": "CHOW",
+    "finhub_symbol": "CHOW",
+    "finnhub_raw_sym": "CHOW",
+    "description": "ChowChow Cloud International Holdings Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 437,
+    "isin": "KYG3066T1040",
+    "sheet_symbol": "EGG",
+    "finhub_symbol": "EGG",
+    "finnhub_raw_sym": "EGG",
+    "description": "Enigmatig Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 438,
+    "isin": "US40472A1025",
+    "sheet_symbol": "EONR",
+    "finhub_symbol": "EONR",
+    "finnhub_raw_sym": "EONR",
+    "description": "EON Resources Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 439,
+    "isin": "US30209R1068",
+    "sheet_symbol": "EXOD",
+    "finhub_symbol": "EXOD",
+    "finnhub_raw_sym": "EXOD",
+    "description": "Exodus Movement Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 440,
+    "isin": "US3697592042",
+    "sheet_symbol": "CITR",
+    "finhub_symbol": "CITR",
+    "finnhub_raw_sym": "CITR",
+    "description": "CitroTech Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 441,
+    "isin": "US4004911065",
+    "sheet_symbol": "SIM",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 442,
+    "isin": "US42981K1007",
+    "sheet_symbol": "ROLR",
+    "finhub_symbol": "ROLR",
+    "finnhub_raw_sym": "ROLR",
+    "description": "High Roller Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 443,
+    "isin": "US4432012072",
+    "sheet_symbol": "HWM.PR",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 444,
+    "isin": "US46578C1080",
+    "sheet_symbol": "IE",
+    "finhub_symbol": "IE",
+    "finnhub_raw_sym": "IE",
+    "description": "Ivanhoe Electric Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 445,
+    "isin": "KYG6083M1015",
+    "sheet_symbol": "MCRP",
+    "finhub_symbol": "MCRP",
+    "finnhub_raw_sym": "MCRP",
+    "description": "Micropolis Holding Company",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 446,
+    "isin": "AU0000319329",
+    "sheet_symbol": "MMA",
+    "finhub_symbol": "MMA",
+    "finnhub_raw_sym": "MMA",
+    "description": "Mixed Martial Arts Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 447,
+    "isin": "US6442061049",
+    "sheet_symbol": "NEN",
+    "finhub_symbol": "NEN",
+    "finnhub_raw_sym": "NEN",
+    "description": "New England Realty Associates LP",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 448,
+    "isin": "CA6445351068",
+    "sheet_symbol": "NGD",
+    "finhub_symbol": "NGD.TO",
+    "finnhub_raw_sym": "NGD.TO",
+    "description": "New Gold Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 449,
+    "isin": "US66373M4087",
+    "sheet_symbol": "NCL",
+    "finhub_symbol": "NCL",
+    "finnhub_raw_sym": "NCL",
+    "description": "Northann Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 450,
+    "isin": "US66987P4090",
+    "sheet_symbol": "NBY",
+    "finhub_symbol": "NBY",
+    "finnhub_raw_sym": "NBY",
+    "description": "NovaBay Pharmaceuticals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 451,
+    "isin": "CA6744822033",
+    "sheet_symbol": "OBE",
+    "finhub_symbol": "OBE.TO",
+    "finnhub_raw_sym": "OBE.TO",
+    "description": "Obsidian Energy Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 452,
+    "isin": "US6960776010",
+    "sheet_symbol": "PTN",
+    "finhub_symbol": "PTN",
+    "finnhub_raw_sym": "PTN",
+    "description": "Palatin Technologies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 453,
+    "isin": "US1711262048",
+    "sheet_symbol": "PTHS",
+    "finhub_symbol": "PTHS",
+    "finnhub_raw_sym": "PTHS",
+    "description": "Pelthos Therapeutics Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 454,
+    "isin": "US71953R1086",
+    "sheet_symbol": "PMI",
+    "finhub_symbol": "PMI",
+    "finnhub_raw_sym": "PMI",
+    "description": "Picard Medical Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 455,
+    "isin": "US7583384042",
+    "sheet_symbol": "REED",
+    "finhub_symbol": "REED",
+    "finnhub_raw_sym": "REED",
+    "description": "Reed's Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 456,
+    "isin": "KYG8726A1067",
+    "sheet_symbol": "TCGL",
+    "finhub_symbol": "TCGL",
+    "finnhub_raw_sym": "TCGL",
+    "description": "TechCreate Group Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 457,
+    "isin": "US87876P2011",
+    "sheet_symbol": "TGEN",
+    "finhub_symbol": "TGEN",
+    "finnhub_raw_sym": "TGEN",
+    "description": "Tecogen Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 458,
+    "isin": "US57403M1045",
+    "sheet_symbol": "MGLD",
+    "finhub_symbol": "MGLD",
+    "finnhub_raw_sym": "MGLD",
+    "description": "Marygold Companies Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 459,
+    "isin": "US9115491030",
+    "sheet_symbol": "UAMY",
+    "finhub_symbol": "UAMY",
+    "finnhub_raw_sym": "UAMY",
+    "description": "United States Antimony Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 460,
+    "isin": "US9138213023",
+    "sheet_symbol": "UUU",
+    "finhub_symbol": "UUU",
+    "finnhub_raw_sym": "UUU",
+    "description": "Universal Safety Products Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 461,
+    "isin": "KYG7486J1094",
+    "sheet_symbol": "VNTG",
+    "finhub_symbol": "VNTG",
+    "finnhub_raw_sym": "VNTG",
+    "description": "Vantage Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 462,
+    "isin": "US98420P3082",
+    "sheet_symbol": "XTNT",
+    "finhub_symbol": "XTNT",
+    "finnhub_raw_sym": "XTNT",
+    "description": "Xtant Medical Holdings Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 463,
+    "isin": "GB00B6XZKY75",
+    "sheet_symbol": "BAG",
+    "finhub_symbol": "BAG.L",
+    "finnhub_raw_sym": "BAG.L",
+    "description": "A G Barr PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 464,
+    "isin": "GB0008123027",
+    "sheet_symbol": "AIEA",
+    "finhub_symbol": "AIEA.L",
+    "finnhub_raw_sym": "AIEA.L",
+    "description": "Airea PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 465,
+    "isin": "US0222082010",
+    "sheet_symbol": "ALBH",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 466,
+    "isin": "GB00BMBWCV32",
+    "sheet_symbol": "AMCO",
+    "finhub_symbol": "AMCO.L",
+    "finnhub_raw_sym": "AMCO.L",
+    "description": "Amcomri Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 467,
+    "isin": "GB00BF1XGQ00",
+    "sheet_symbol": "ANG",
+    "finhub_symbol": "ANG.L",
+    "finnhub_raw_sym": "ANG.L",
+    "description": "Angling Direct PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 468,
+    "isin": "US03690C1027",
+    "sheet_symbol": "AOTI",
+    "finhub_symbol": "AOTI.L",
+    "finnhub_raw_sym": "AOTI.L",
+    "description": "Aoti Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 469,
+    "isin": "GB00BMWLM973",
+    "sheet_symbol": "AREC",
+    "finhub_symbol": "AREC.L",
+    "finnhub_raw_sym": "AREC.L",
+    "description": "Arecor Therapeutics PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 470,
+    "isin": "GB00BPJMN573",
+    "sheet_symbol": "ATN",
+    "finhub_symbol": "ATN.L",
+    "finnhub_raw_sym": "ATN.L",
+    "description": "Aterian PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 471,
+    "isin": "GB0009697037",
+    "sheet_symbol": "BAB",
+    "finhub_symbol": "BAB.L",
+    "finnhub_raw_sym": "BAB.L",
+    "description": "Babcock International Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 472,
+    "isin": "GB0000332667",
+    "sheet_symbol": "BILN",
+    "finhub_symbol": "BILN.L",
+    "finnhub_raw_sym": "BILN.L",
+    "description": "Billington Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 473,
+    "isin": "JE00BG6L7297",
+    "sheet_symbol": "DEBS",
+    "finhub_symbol": "DEBS.L",
+    "finnhub_raw_sym": "DEBS.L",
+    "description": "Boohoo Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 474,
+    "isin": "GB0000617950",
+    "sheet_symbol": "BUC",
+    "finhub_symbol": "BUC.L",
+    "finnhub_raw_sym": "BUC.L",
+    "description": "Built Cybernetics PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 475,
+    "isin": "GB00B1W0VW36",
+    "sheet_symbol": "CASP",
+    "finhub_symbol": "CASP.L",
+    "finnhub_raw_sym": "CASP.L",
+    "description": "Caspian Sunrise PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 476,
+    "isin": "GB0004339296",
+    "sheet_symbol": "CCPA",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 477,
+    "isin": "GB0030639925",
+    "sheet_symbol": "CCPC",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 478,
+    "isin": "GB00BZ1BLL44",
+    "sheet_symbol": "CREO",
+    "finhub_symbol": "CREO.L",
+    "finnhub_raw_sym": "CREO.L",
+    "description": "Creo Medical Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 479,
+    "isin": "GB00BRJRV969",
+    "sheet_symbol": "TIDE",
+    "finhub_symbol": "TIDE.L",
+    "finnhub_raw_sym": "TIDE.L",
+    "description": "Crimson Tide PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 480,
+    "isin": "GB00B5MJV178",
+    "sheet_symbol": "CSSG",
+    "finhub_symbol": "CSSG.L",
+    "finnhub_raw_sym": "CSSG.L",
+    "description": "Croma Security Solutions Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 481,
+    "isin": "GB00BRC2TB67",
+    "sheet_symbol": "EARN",
+    "finhub_symbol": "EARN.L",
+    "finnhub_raw_sym": "EARN.L",
+    "description": "Earnz PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 482,
+    "isin": "GB00BJP1KD31",
+    "sheet_symbol": "EAAS",
+    "finhub_symbol": "EAAS.L",
+    "finnhub_raw_sym": "EAAS.L",
+    "description": "Eenergy Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 483,
+    "isin": "GB0003081246",
+    "sheet_symbol": "ELCO",
+    "finhub_symbol": "ELCO.L",
+    "finnhub_raw_sym": "ELCO.L",
+    "description": "Eleco PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 484,
+    "isin": "GB00BN7F1618",
+    "sheet_symbol": "ENSI",
+    "finhub_symbol": "ENSI.L",
+    "finnhub_raw_sym": "ENSI.L",
+    "description": "EnSilica PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 485,
+    "isin": "GB00BR83RJ78",
+    "sheet_symbol": "FIL",
+    "finhub_symbol": "FIL.L",
+    "finnhub_raw_sym": "FIL.L",
+    "description": "Fairview International PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 486,
+    "isin": "GB00BRJ9BJ26",
+    "sheet_symbol": "FEVR",
+    "finhub_symbol": "FEVR.L",
+    "finnhub_raw_sym": "FEVR.L",
+    "description": "Fevertree Drinks PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 487,
+    "isin": "GB0003452173",
+    "sheet_symbol": "FGP",
+    "finhub_symbol": "FGP.L",
+    "finnhub_raw_sym": "FGP.L",
+    "description": "FirstGroup PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 488,
+    "isin": "US36268T2069",
+    "sheet_symbol": "GAID",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 489,
+    "isin": "GB00BL97B504",
+    "sheet_symbol": "GENI",
+    "finhub_symbol": "GENI.L",
+    "finnhub_raw_sym": "GENI.L",
+    "description": "Genincode PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 490,
+    "isin": "GB00BG0TSD71",
+    "sheet_symbol": "GETB",
+    "finhub_symbol": "GETB.L",
+    "finnhub_raw_sym": "GETB.L",
+    "description": "GetBusy PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 491,
+    "isin": "VGG4164C1005",
+    "sheet_symbol": "GST",
+    "finhub_symbol": "GST.L",
+    "finnhub_raw_sym": "GST.L",
+    "description": "GSTechnologies Ltd",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 492,
+    "isin": "GB00BJJPX768",
+    "sheet_symbol": "HDD",
+    "finhub_symbol": "HDD.L",
+    "finnhub_raw_sym": "HDD.L",
+    "description": "Hardide PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 493,
+    "isin": "GB00BPVBVZ82",
+    "sheet_symbol": "HERC",
+    "finhub_symbol": "HERC.L",
+    "finnhub_raw_sym": "HERC.L",
+    "description": "Hercules PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 494,
+    "isin": "GB00B1FW5029",
+    "sheet_symbol": "HOC",
+    "finhub_symbol": "HOC.L",
+    "finnhub_raw_sym": "HOC.L",
+    "description": "Hochschild Mining PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 495,
+    "isin": "GB0005576813",
+    "sheet_symbol": "HWDN",
+    "finhub_symbol": "HWDN.L",
+    "finnhub_raw_sym": "HWDN.L",
+    "description": "Howden Joinery Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 496,
+    "isin": "GB00BD5JRP64",
+    "sheet_symbol": "HUD",
+    "finhub_symbol": "HUD.L",
+    "finnhub_raw_sym": "HUD.L",
+    "description": "Huddled Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 497,
+    "isin": "GB0004526900",
+    "sheet_symbol": "IGR",
+    "finhub_symbol": "IGR.L",
+    "finnhub_raw_sym": "IGR.L",
+    "description": "IG Design Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 498,
+    "isin": "GB00BFXR4C20",
+    "sheet_symbol": "IXI",
+    "finhub_symbol": "IXI.L",
+    "finnhub_raw_sym": "IXI.L",
+    "description": "IXICO PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 499,
+    "isin": "GB0004866223",
+    "sheet_symbol": "KLR",
+    "finhub_symbol": "KLR.L",
+    "finnhub_raw_sym": "KLR.L",
+    "description": "Keller Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 500,
+    "isin": "USY5217N1183",
+    "sheet_symbol": "LTOD",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 501,
+    "isin": "VGG9520B1004",
+    "sheet_symbol": "BTC",
+    "finhub_symbol": "BTC.L",
+    "finnhub_raw_sym": "BTC.L",
+    "description": "London BTC Company Limited",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 502,
+    "isin": "GB0007320806",
+    "sheet_symbol": "LPA",
+    "finhub_symbol": "LPA.L",
+    "finnhub_raw_sym": "LPA.L",
+    "description": "LPA Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 503,
+    "isin": "GB0008481250",
+    "sheet_symbol": "MEGP",
+    "finhub_symbol": "MEGP.L",
+    "finnhub_raw_sym": "MEGP.L",
+    "description": "ME Group International PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 504,
+    "isin": "GB00B0394F60",
+    "sheet_symbol": "MTL",
+    "finhub_symbol": "MTL.L",
+    "finnhub_raw_sym": "MTL.L",
+    "description": "Metals Exploration PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 505,
+    "isin": "GB0009067447",
+    "sheet_symbol": "MTC",
+    "finhub_symbol": "MTC.L",
+    "finnhub_raw_sym": "MTC.L",
+    "description": "Mothercare PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 506,
+    "isin": "GB00B01QGK86",
+    "sheet_symbol": "NCC",
+    "finhub_symbol": "NCC.L",
+    "finnhub_raw_sym": "NCC.L",
+    "description": "NCC Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 507,
+    "isin": "GB00B99PCP71",
+    "sheet_symbol": "NXQ",
+    "finhub_symbol": "NXQ.L",
+    "finnhub_raw_sym": "NXQ.L",
+    "description": "Nexteq PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 508,
+    "isin": "GB00BZ77SW60",
+    "sheet_symbol": "NEXS",
+    "finhub_symbol": "NEXS.L",
+    "finnhub_raw_sym": "NEXS.L",
+    "description": "Nexus Infrastructure PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 509,
+    "isin": "GB00BYYJL418",
+    "sheet_symbol": "NXR",
+    "finhub_symbol": "NXR.L",
+    "finnhub_raw_sym": "NXR.L",
+    "description": "Norcros PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 510,
+    "isin": "GB00BTHYM345",
+    "sheet_symbol": "NBB",
+    "finhub_symbol": "NBB.L",
+    "finnhub_raw_sym": "NBB.L",
+    "description": "Norman Broadbent PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 511,
+    "isin": "CA68234M2058",
+    "sheet_symbol": "OBI",
+    "finhub_symbol": "OBI.L",
+    "finnhub_raw_sym": "OBI.L",
+    "description": "Ondine Biomedical Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 512,
+    "isin": "GB00BNNT0595",
+    "sheet_symbol": "OHGR",
+    "finhub_symbol": "OHGR.AQ",
+    "finnhub_raw_sym": "OHGR.AQ",
+    "description": "One Health Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 513,
+    "isin": "IM00B2R3RX72",
+    "sheet_symbol": "OPG",
+    "finhub_symbol": "OPG.L",
+    "finnhub_raw_sym": "OPG.L",
+    "description": "OPG Power Ventures PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 514,
+    "isin": "GB00BDFBVT43",
+    "sheet_symbol": "OXB",
+    "finhub_symbol": "OXB.L",
+    "finnhub_raw_sym": "OXB.L",
+    "description": "Oxford Biomedica PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 515,
+    "isin": "GB00BVMTNR93",
+    "sheet_symbol": "PAY",
+    "finhub_symbol": "PAY.L",
+    "finnhub_raw_sym": "PAY.L",
+    "description": "PayPoint plc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 516,
+    "isin": "GB00BMFSSJ73",
+    "sheet_symbol": "POW",
+    "finhub_symbol": "POW.L",
+    "finnhub_raw_sym": "POW.L",
+    "description": "Power Metal Resources PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 517,
+    "isin": "US7444302084",
+    "sheet_symbol": "PPHC",
+    "finhub_symbol": "PPHC.L",
+    "finnhub_raw_sym": "PPHC.L",
+    "description": "Public Policy Holding Company Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 518,
+    "isin": "GB00BGQVB052",
+    "sheet_symbol": "PULS",
+    "finhub_symbol": "PULS.L",
+    "finnhub_raw_sym": "PULS.L",
+    "description": "Pulsar Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 519,
+    "isin": "GB00BS3DYQ52",
+    "sheet_symbol": "RPI",
+    "finhub_symbol": "RPI.L",
+    "finnhub_raw_sym": "RPI.L",
+    "description": "Raspberry Pi Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 520,
+    "isin": "US7594701077",
+    "sheet_symbol": "RIGD",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 521,
+    "isin": "GB00BSVJ8W91",
+    "sheet_symbol": "RGG",
+    "finhub_symbol": "RGG.AQ",
+    "finnhub_raw_sym": "RGG.AQ",
+    "description": "Rentguarantor Holdings PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 522,
+    "isin": "GB00B082RF11",
+    "sheet_symbol": "RTO",
+    "finhub_symbol": "RTO.L",
+    "finnhub_raw_sym": "RTO.L",
+    "description": "Rentokil Initial PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 523,
+    "isin": "GB00B00K4418",
+    "sheet_symbol": "RBN",
+    "finhub_symbol": "RBN.L",
+    "finnhub_raw_sym": "RBN.L",
+    "description": "Robinson PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 524,
+    "isin": "GB00BK6SHS41",
+    "sheet_symbol": "SEEN",
+    "finhub_symbol": "SEEN.L",
+    "finnhub_raw_sym": "SEEN.L",
+    "description": "Seeen PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 525,
+    "isin": "GB00BDGS8G04",
+    "sheet_symbol": "SOS",
+    "finhub_symbol": "SOS.L",
+    "finnhub_raw_sym": "SOS.L",
+    "description": "Sosandar PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 526,
+    "isin": "US84756T1060",
+    "sheet_symbol": "SPSY",
+    "finhub_symbol": "SPSY.L",
+    "finnhub_raw_sym": "SPSY.L",
+    "description": "Spectra Systems Corp",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 527,
+    "isin": "GB00BF1QPG26",
+    "sheet_symbol": "SPR",
+    "finhub_symbol": "SPR.L",
+    "finnhub_raw_sym": "SPR.L",
+    "description": "Springfield Properties PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 528,
+    "isin": "GB00B0KM9T71",
+    "sheet_symbol": "STEM",
+    "finhub_symbol": "STEM.L",
+    "finnhub_raw_sym": "STEM.L",
+    "description": "SThree PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 529,
+    "isin": "GB0009589168",
+    "sheet_symbol": "SYM",
+    "finhub_symbol": "SYM.L",
+    "finnhub_raw_sym": "SYM.L",
+    "description": "Symphony Environmental Technologies PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 530,
+    "isin": "GB0007156838",
+    "sheet_symbol": "SNX",
+    "finhub_symbol": "SNX.L",
+    "finnhub_raw_sym": "SNX.L",
+    "description": "Synectics PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 531,
+    "isin": "GB00BYT18182",
+    "sheet_symbol": "SYS",
+    "finhub_symbol": "SYS.L",
+    "finnhub_raw_sym": "SYS.L",
+    "description": "SysGroup PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 532,
+    "isin": "GB00BF188X60",
+    "sheet_symbol": "TENG",
+    "finhub_symbol": "TENG.L",
+    "finnhub_raw_sym": "TENG.L",
+    "description": "Ten Lifestyle Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 533,
+    "isin": "GB00BN4M3M55",
+    "sheet_symbol": "TIA",
+    "finhub_symbol": "TIA.L",
+    "finnhub_raw_sym": "TIA.L",
+    "description": "Tialis Essential IT PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 534,
+    "isin": "GB00BCDBXK43",
+    "sheet_symbol": "TIME",
+    "finhub_symbol": "TIME.L",
+    "finnhub_raw_sym": "TIME.L",
+    "description": "Time Finance PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 535,
+    "isin": "USU8884H1033",
+    "sheet_symbol": "TBLD",
+    "finhub_symbol": "TBLD.L",
+    "finnhub_raw_sym": "TBLD.L",
+    "description": "Tinybuild Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 536,
+    "isin": "GB00B13YVN56",
+    "sheet_symbol": "VNET",
+    "finhub_symbol": "VNET.L",
+    "finnhub_raw_sym": "VNET.L",
+    "description": "Vianet Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 537,
+    "isin": "GB00BL6C2002",
+    "sheet_symbol": "WIX",
+    "finhub_symbol": "WIX.L",
+    "finnhub_raw_sym": "WIX.L",
+    "description": "Wickes Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 538,
+    "isin": "GB0034212331",
+    "sheet_symbol": "WYN",
+    "finhub_symbol": "WYN.L",
+    "finnhub_raw_sym": "WYN.L",
+    "description": "Wynnstay Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 539,
+    "isin": "GB00BDDN1T20",
+    "sheet_symbol": "XPS",
+    "finhub_symbol": "XPS.L",
+    "finnhub_raw_sym": "XPS.L",
+    "description": "XPS Pensions Group PLC",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 540,
+    "isin": "NL0010872388",
+    "sheet_symbol": "3SQ1",
+    "finhub_symbol": "3SQ1.F",
+    "finnhub_raw_sym": "3SQ1.F",
+    "description": "AHT Syngas Technology NV",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 541,
+    "isin": "FR0012616852",
+    "sheet_symbol": "ABNX",
+    "finhub_symbol": "ABNX.PA",
+    "finnhub_raw_sym": "ABNX.PA",
+    "description": "Abionyx Pharma SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 542,
+    "isin": "FR0000063034",
+    "sheet_symbol": "ABLD",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 543,
+    "isin": "ES0106000013",
+    "sheet_symbol": "ADZ",
+    "finhub_symbol": "ADZ.MC",
+    "finnhub_raw_sym": "ADZ.MC",
+    "description": "Adolfo Dominguez SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 544,
+    "isin": "ES0105046017",
+    "sheet_symbol": "AENA",
+    "finhub_symbol": "AENA.MC",
+    "finnhub_raw_sym": "AENA.MC",
+    "description": "Aena SME SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 545,
+    "isin": "FR0010641449",
+    "sheet_symbol": "ALAGR",
+    "finhub_symbol": "ALAGR.PA",
+    "finnhub_raw_sym": "ALAGR.PA",
+    "description": "Agrogeneration SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 546,
+    "isin": "DE0005035505",
+    "sheet_symbol": "ALB",
+    "finhub_symbol": "ALB.MU",
+    "finnhub_raw_sym": "ALB.MU",
+    "description": "Allgaeuer Brauhaus AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 547,
+    "isin": "DE000A2YNT30",
+    "sheet_symbol": "ACT",
+    "finhub_symbol": "ACT.DE",
+    "finnhub_raw_sym": "ACT.DE",
+    "description": "Alzchem Group AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 548,
+    "isin": "ES0105691002",
+    "sheet_symbol": "ATSI",
+    "finhub_symbol": "ATSI.MC",
+    "finnhub_raw_sym": "ATSI.MC",
+    "description": "Aplicaciones y Tratamiento de Sistemas SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 549,
+    "isin": "FR0010340711",
+    "sheet_symbol": "ALAQU",
+    "finhub_symbol": "ALAQU.PA",
+    "finnhub_raw_sym": "ALAQU.PA",
+    "description": "Aquila SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 550,
+    "isin": "ES0105521001",
+    "sheet_symbol": "ART",
+    "finhub_symbol": "ART.MC",
+    "finnhub_raw_sym": "ART.MC",
+    "description": "Arteche Lantegi Elkartea SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 551,
+    "isin": "DE000A40ET13",
+    "sheet_symbol": "3ITN",
+    "finhub_symbol": "3ITN.DE",
+    "finnhub_raw_sym": "3ITN.DE",
+    "description": "audius SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 552,
+    "isin": "VGG069731120",
+    "sheet_symbol": "A531",
+    "finhub_symbol": "ORA.TO",
+    "finnhub_raw_sym": "ORA.TO",
+    "description": "Aura Minerals Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 553,
+    "isin": "DE000A40KY59",
+    "sheet_symbol": "AV2",
+    "finhub_symbol": "3D6.DE",
+    "finnhub_raw_sym": "3D6.DE",
+    "description": "Avemio AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 554,
+    "isin": "ES0112458312",
+    "sheet_symbol": "AZK",
+    "finhub_symbol": "AZK.MC",
+    "finnhub_raw_sym": "AZK.MC",
+    "description": "Azkoyen SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 555,
+    "isin": "FR0013258399",
+    "sheet_symbol": "BALYO",
+    "finhub_symbol": "BALYO.PA",
+    "finnhub_raw_sym": "BALYO.PA",
+    "description": "Balyo SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 556,
+    "isin": "DE0005201602",
+    "sheet_symbol": "BEZ",
+    "finhub_symbol": "BEZ.DE",
+    "finnhub_raw_sym": "BEZ.DE",
+    "description": "Berentzen Gruppe AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 557,
+    "isin": "DE0005221303",
+    "sheet_symbol": "BFV",
+    "finhub_symbol": "BFV.F",
+    "finnhub_raw_sym": "BFV.F",
+    "description": "Berliner Effektengesellschaft AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 558,
+    "isin": "DE000A0NK3W4",
+    "sheet_symbol": "SPT6",
+    "finhub_symbol": "SPT6.F",
+    "finnhub_raw_sym": "SPT6.F",
+    "description": "Beta Systems Software AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 559,
+    "isin": "CA09076J2074",
+    "sheet_symbol": "8MV0",
+    "finhub_symbol": "BHSC.CN",
+    "finnhub_raw_sym": "BHSC.CN",
+    "description": "Bioharvest Sciences Inc",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 560,
+    "isin": "FR0011365907",
+    "sheet_symbol": "ALBOA",
+    "finhub_symbol": "ALBOA.PA",
+    "finnhub_raw_sym": "ALBOA.PA",
+    "description": "Boa Concept SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 561,
+    "isin": "FR0000074254",
+    "sheet_symbol": "BSD",
+    "finhub_symbol": "BSD.PA",
+    "finnhub_raw_sym": "BSD.PA",
+    "description": "Bourse Direct SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 562,
+    "isin": "FR0000125338",
+    "sheet_symbol": "CAP",
+    "finhub_symbol": "CAP.PA",
+    "finnhub_raw_sym": "CAP.PA",
+    "description": "Capgemini SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 563,
+    "isin": "DE000A1TNMM9",
+    "sheet_symbol": "CTNK",
+    "finhub_symbol": "CTNK.F",
+    "finnhub_raw_sym": "CTNK.F",
+    "description": "Centrotherm International AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 564,
+    "isin": "DE0005407407",
+    "sheet_symbol": "CEK",
+    "finhub_symbol": "CEK.DE",
+    "finnhub_raw_sym": "CEK.DE",
+    "description": "CeoTronics Audio Video Data Communication AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 565,
+    "isin": "IT0005632945",
+    "sheet_symbol": "CMTL",
+    "finhub_symbol": "CMTL.MI",
+    "finnhub_raw_sym": "CMTL.MI",
+    "description": "ComTel SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 566,
+    "isin": "LU2592315662",
+    "sheet_symbol": "DIS",
+    "finhub_symbol": "DIS.MI",
+    "finnhub_raw_sym": "DIS.MI",
+    "description": "d'Amico International Shipping SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 567,
+    "isin": "DE0005538300",
+    "sheet_symbol": "DWB",
+    "finhub_symbol": "DWB.SG",
+    "finnhub_raw_sym": "DWB.SG",
+    "description": "Dinkelacker AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 568,
+    "isin": "FR0010436584",
+    "sheet_symbol": "ALDNX",
+    "finhub_symbol": "ALDNX.PA",
+    "finnhub_raw_sym": "ALDNX.PA",
+    "description": "Dnxcorp Se",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 569,
+    "isin": "IT0005523839",
+    "sheet_symbol": "DOT",
+    "finhub_symbol": "DOT.MI",
+    "finnhub_raw_sym": "DOT.MI",
+    "description": "Dotstay SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 570,
+    "isin": "FR001400SVN0",
+    "sheet_symbol": "ALDRV",
+    "finhub_symbol": "ALDRV.PA",
+    "finnhub_raw_sym": "ALDRV.PA",
+    "description": "Drone Volt SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 571,
+    "isin": "IT0005627762",
+    "sheet_symbol": "ELB",
+    "finhub_symbol": "ELB.MI",
+    "finnhub_raw_sym": "ELB.MI",
+    "description": "Edgelab SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 572,
+    "isin": "ES0129743318",
+    "sheet_symbol": "ENO",
+    "finhub_symbol": "ENO.MC",
+    "finnhub_raw_sym": "ENO.MC",
+    "description": "Elecnor SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 573,
+    "isin": "FR0004030708",
+    "sheet_symbol": "ALDUB",
+    "finhub_symbol": "ALDUB.PA",
+    "finnhub_raw_sym": "ALDUB.PA",
+    "description": "Encres Dubuit SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 574,
+    "isin": "IT0005660219",
+    "sheet_symbol": "ET",
+    "finhub_symbol": "ET.MI",
+    "finnhub_raw_sym": "ET.MI",
+    "description": "Energy Time SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 575,
+    "isin": "FR0013240934",
+    "sheet_symbol": "ALERS",
+    "finhub_symbol": "ALERS.PA",
+    "finnhub_raw_sym": "ALERS.PA",
+    "description": "Eurobio Scientific SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 576,
+    "isin": "DE0005767909",
+    "sheet_symbol": "FHW",
+    "finhub_symbol": "FHW.F",
+    "finnhub_raw_sym": "FHW.F",
+    "description": "Fernheizwerk Neukoelln AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 577,
+    "isin": "DE0005775803",
+    "sheet_symbol": "FRS",
+    "finhub_symbol": "FRS.DE",
+    "finnhub_raw_sym": "FRS.DE",
+    "description": "Foris AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 578,
+    "isin": "ATFREQUENT09",
+    "sheet_symbol": "FQT",
+    "finhub_symbol": "FQT.DE",
+    "finnhub_raw_sym": "FQT.DE",
+    "description": "Frequentis AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 579,
+    "isin": "DE0006069008",
+    "sheet_symbol": "NLM",
+    "finhub_symbol": "NLM.F",
+    "finnhub_raw_sym": "NLM.F",
+    "description": "FRoSTA AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 580,
+    "isin": "DE000A40ZW05",
+    "sheet_symbol": "FEW0",
+    "finhub_symbol": "FEW.F",
+    "finnhub_raw_sym": "FEW.F",
+    "description": "Funkwerk AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 581,
+    "isin": "DE0007760001",
+    "sheet_symbol": "WWG",
+    "finhub_symbol": "WWG.F",
+    "finnhub_raw_sym": "WWG.F",
+    "description": "Gelsenwasser AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 582,
+    "isin": "FR0004163111",
+    "sheet_symbol": "GNFT",
+    "finhub_symbol": "GNFT.PA",
+    "finnhub_raw_sym": "GNFT.PA",
+    "description": "Genfit SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 583,
+    "isin": "FR0013183985",
+    "sheet_symbol": "SIGHT",
+    "finhub_symbol": "SIGHT.PA",
+    "finnhub_raw_sym": "SIGHT.PA",
+    "description": "Gensight Biologics SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 584,
+    "isin": "IT0005531261",
+    "sheet_symbol": "GM",
+    "finhub_symbol": "GM.MI",
+    "finnhub_raw_sym": "GM.MI",
+    "description": "Gentili Mosconi SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 585,
+    "isin": "DE000A1K0201",
+    "sheet_symbol": "GSC1",
+    "finhub_symbol": "GSC1.DE",
+    "finnhub_raw_sym": "GSC1.DE",
+    "description": "Gesco SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 586,
+    "isin": "FR0000053035",
+    "sheet_symbol": "GEA",
+    "finhub_symbol": "GEA.PA",
+    "finnhub_raw_sym": "GEA.PA",
+    "description": "Gea Grenobloise Electronique Automatisme SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 587,
+    "isin": "ES0180918015",
+    "sheet_symbol": "GSJ",
+    "finhub_symbol": "GSJ.MC",
+    "finnhub_raw_sym": "GSJ.MC",
+    "description": "Grupo Empresarial San Jose SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 588,
+    "isin": "ES0172708234",
+    "sheet_symbol": "EZE",
+    "finhub_symbol": "EZE.MC",
+    "finnhub_raw_sym": "EZE.MC",
+    "description": "Grupo Ezentis SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 589,
+    "isin": "IT0005411209",
+    "sheet_symbol": "GVS",
+    "finhub_symbol": "GVS.MI",
+    "finnhub_raw_sym": "GVS.MI",
+    "description": "GVS SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 590,
+    "isin": "DE000HAG0005",
+    "sheet_symbol": "HAG",
+    "finhub_symbol": "HAG.DE",
+    "finnhub_raw_sym": "HAG.DE",
+    "description": "Hensoldt AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 591,
+    "isin": "DE0006061104",
+    "sheet_symbol": "HMU",
+    "finhub_symbol": "HMU.DE",
+    "finnhub_raw_sym": "HMU.DE",
+    "description": "HMS Bergbau AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 592,
+    "isin": "IT0001214433",
+    "sheet_symbol": "ICOP",
+    "finhub_symbol": "ICOP.MI",
+    "finnhub_raw_sym": "ICOP.MI",
+    "description": "ICoP SpA SB",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 593,
+    "isin": "DE000A0XYHT5",
+    "sheet_symbol": "IBU",
+    "finhub_symbol": "IBU.DE",
+    "finnhub_raw_sym": "IBU.DE",
+    "description": "IBU-tec advanced materials AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 594,
+    "isin": "ES0105684007",
+    "sheet_symbol": "IFLEX",
+    "finhub_symbol": "IFLEX.MC",
+    "finnhub_raw_sym": "IFLEX.MC",
+    "description": "Iflex Flexible Packaging SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 595,
+    "isin": "IT0005518953",
+    "sheet_symbol": "MPT",
+    "finhub_symbol": "MPT.MI",
+    "finnhub_raw_sym": "MPT.MI",
+    "description": "Impianti SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 596,
+    "isin": "DE000A40QVM8",
+    "sheet_symbol": "1INN",
+    "finhub_symbol": "1INN.MU",
+    "finnhub_raw_sym": "1INN.MU",
+    "description": "innoscripta SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 597,
+    "isin": "DE0005405104",
+    "sheet_symbol": "TSS",
+    "finhub_symbol": "TSS.F",
+    "finnhub_raw_sym": "TSS.F",
+    "description": "InnoTec TSS AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 598,
+    "isin": "DE000A3E00M1",
+    "sheet_symbol": "IOS",
+    "finhub_symbol": "IOS.DE",
+    "finnhub_raw_sym": "IOS.DE",
+    "description": "IONOS Group SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 599,
+    "isin": "DE000KBX1006",
+    "sheet_symbol": "KBX",
+    "finhub_symbol": "KBX.DE",
+    "finnhub_raw_sym": "KBX.DE",
+    "description": "Knorr Bremse AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 600,
+    "isin": "AT0000A0E9W5",
+    "sheet_symbol": "KTN",
+    "finhub_symbol": "KTN.DE",
+    "finnhub_raw_sym": "KTN.DE",
+    "description": "Kontron AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 601,
+    "isin": "DE0006335003",
+    "sheet_symbol": "KRN",
+    "finhub_symbol": "KRN.DE",
+    "finnhub_raw_sym": "KRN.DE",
+    "description": "Krones AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 602,
+    "isin": "FR0013419876",
+    "sheet_symbol": "ALVAP",
+    "finhub_symbol": "ALVAP.PA",
+    "finnhub_raw_sym": "ALVAP.PA",
+    "description": "Kumulus Vape SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 603,
+    "isin": "DE0006458003",
+    "sheet_symbol": "LEC",
+    "finhub_symbol": "LEC.F",
+    "finnhub_raw_sym": "LEC.F",
+    "description": "Lechwerke AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 604,
+    "isin": "IT0003856405",
+    "sheet_symbol": "LDO",
+    "finhub_symbol": "LDO.MI",
+    "finnhub_raw_sym": "LDO.MI",
+    "description": "Leonardo SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 605,
+    "isin": "FR0000030074",
+    "sheet_symbol": "MALT",
+    "finhub_symbol": "MALT.PA",
+    "finnhub_raw_sym": "MALT.PA",
+    "description": "Malteries Franco Belges SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 606,
+    "isin": "IT0005364333",
+    "sheet_symbol": "MAPS",
+    "finhub_symbol": "MAPS.MI",
+    "finnhub_raw_sym": "MAPS.MI",
+    "description": "Maps SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 607,
+    "isin": "IT0005670960",
+    "sheet_symbol": "MARK",
+    "finhub_symbol": "MARK.MI",
+    "finnhub_raw_sym": "MARK.MI",
+    "description": "Markbass SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 608,
+    "isin": "DE0006052830",
+    "sheet_symbol": "MBH3",
+    "finhub_symbol": "MBH3.F",
+    "finnhub_raw_sym": "MBH3.F",
+    "description": "Maschinenfabrik Berthold Hermle AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 609,
+    "isin": "DE0006044001",
+    "sheet_symbol": "MAK",
+    "finhub_symbol": "MAK.DE",
+    "finnhub_raw_sym": "MAK.DE",
+    "description": "MATERNUS-Kliniken-AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 610,
+    "isin": "IT0005388449",
+    "sheet_symbol": "MFT",
+    "finhub_symbol": "MFT.MI",
+    "finnhub_raw_sym": "MFT.MI",
+    "description": "Matica Fintec SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 611,
+    "isin": "IT0005651481",
+    "sheet_symbol": "MTK",
+    "finhub_symbol": "MTK.MI",
+    "finnhub_raw_sym": "MTK.MI",
+    "description": "Metriks Ai SpA Sb",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 612,
+    "isin": "ES0105122024",
+    "sheet_symbol": "MVC",
+    "finhub_symbol": "MVC.MC",
+    "finnhub_raw_sym": "MVC.MC",
+    "description": "Metrovacesa SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 613,
+    "isin": "DE000A3CSAE2",
+    "sheet_symbol": "MRX",
+    "finhub_symbol": "MRX.DE",
+    "finnhub_raw_sym": "MRX.DE",
+    "description": "Mister Spex SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 614,
+    "isin": "DE0005855183",
+    "sheet_symbol": "MSAG",
+    "finhub_symbol": "MSAG.DE",
+    "finnhub_raw_sym": "MSAG.DE",
+    "description": "MS Industrie AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 615,
+    "isin": "ES0171613005",
+    "sheet_symbol": "NAT",
+    "finhub_symbol": "NAT.MC",
+    "finnhub_raw_sym": "NAT.MC",
+    "description": "Natac Natural Ingredients SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 616,
+    "isin": "FR0010397232",
+    "sheet_symbol": "ALNOV",
+    "finhub_symbol": "ALNOV.PA",
+    "finnhub_raw_sym": "ALNOV.PA",
+    "description": "Novacyt SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 617,
+    "isin": "FR0004065639",
+    "sheet_symbol": "ALNSE",
+    "finhub_symbol": "ALNSE.PA",
+    "finnhub_raw_sym": "ALNSE.PA",
+    "description": "NSE SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 618,
+    "isin": "ES0126962069",
+    "sheet_symbol": "NXT",
+    "finhub_symbol": "NXT.MC",
+    "finnhub_raw_sym": "NXT.MC",
+    "description": "Nueva Expresion Textil SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 619,
+    "isin": "FR0000052680",
+    "sheet_symbol": "SBT",
+    "finhub_symbol": "SBT.PA",
+    "finnhub_raw_sym": "SBT.PA",
+    "description": "Oeneo SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 620,
+    "isin": "DE0005936124",
+    "sheet_symbol": "OHB",
+    "finhub_symbol": "OHB.DE",
+    "finnhub_raw_sym": "OHB.DE",
+    "description": "OHB SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 621,
+    "isin": "FR0013266772",
+    "sheet_symbol": "ALEXP",
+    "finhub_symbol": "ALEXP.PA",
+    "finnhub_raw_sym": "ALEXP.PA",
+    "description": "One Experience SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 622,
+    "isin": "ES0105818019",
+    "sheet_symbol": "OPTS",
+    "finhub_symbol": "OPTS.MC",
+    "finnhub_raw_sym": "OPTS.MC",
+    "description": "Optare Solutions SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 623,
+    "isin": "IT0005663361",
+    "sheet_symbol": "OTO",
+    "finhub_symbol": "OTO.MI",
+    "finnhub_raw_sym": "OTO.MI",
+    "description": "Otofarma SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 624,
+    "isin": "IT0005043507",
+    "sheet_symbol": "OVS",
+    "finhub_symbol": "OVS.MI",
+    "finnhub_raw_sym": "OVS.MI",
+    "description": "OVS SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 625,
+    "isin": "DE0006201403",
+    "sheet_symbol": "PEH",
+    "finhub_symbol": "PEH.F",
+    "finnhub_raw_sym": "PEH.F",
+    "description": "PEH Wertpapier AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 626,
+    "isin": "DE000PFSE212",
+    "sheet_symbol": "PFSE",
+    "finhub_symbol": "PFSE.DE",
+    "finnhub_raw_sym": "PFSE.DE",
+    "description": "Pfisterer Holding SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 627,
+    "isin": "DE000A161Z44",
+    "sheet_symbol": "PLEK",
+    "finhub_symbol": "PLEK.F",
+    "finnhub_raw_sym": "PLEK.F",
+    "description": "Plenum AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 628,
+    "isin": "FR0010169920",
+    "sheet_symbol": "ALPRE",
+    "finhub_symbol": "ALPRE.PA",
+    "finnhub_raw_sym": "ALPRE.PA",
+    "description": "Predilife SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 629,
+    "isin": "IT0004176001",
+    "sheet_symbol": "PRY",
+    "finhub_symbol": "PRY.MI",
+    "finnhub_raw_sym": "PRY.MI",
+    "description": "Prysmian SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 630,
+    "isin": "FR0010889386",
+    "sheet_symbol": "ALQWA",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 631,
+    "isin": "IT0005500571",
+    "sheet_symbol": "RNV",
+    "finhub_symbol": "RNV.MI",
+    "finnhub_raw_sym": "RNV.MI",
+    "description": "Renovalo SpA Sb",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 632,
+    "isin": "IT0001402269",
+    "sheet_symbol": "RN",
+    "finhub_symbol": "RN.MI",
+    "finnhub_raw_sym": "RN.MI",
+    "description": "Risanamento SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 633,
+    "isin": "FR0010523167",
+    "sheet_symbol": "ALROC",
+    "finhub_symbol": "ALROC.PA",
+    "finnhub_raw_sym": "ALROC.PA",
+    "description": "Roctool SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 634,
+    "isin": "FR0014005I80",
+    "sheet_symbol": "ALSMA",
+    "finhub_symbol": "ALSMA.PA",
+    "finnhub_raw_sym": "ALSMA.PA",
+    "description": "SMAIO SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 635,
+    "isin": "DE0007165631",
+    "sheet_symbol": "SRT3",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 636,
+    "isin": "DE0007165631",
+    "sheet_symbol": "SRT3",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 637,
+    "isin": "DE000A2AAE22",
+    "sheet_symbol": "CY1K",
+    "finhub_symbol": "CY1K.F",
+    "finnhub_raw_sym": "CY1K.F",
+    "description": "Sbf AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 638,
+    "isin": "DE0007190001",
+    "sheet_symbol": "SSS",
+    "finhub_symbol": "SSS.DU",
+    "finnhub_raw_sym": "SSS.DU",
+    "description": "Schulte-Schlagbaum AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 639,
+    "isin": "FR0014010H01",
+    "sheet_symbol": "ALSEM",
+    "finhub_symbol": "ALSEM.PA",
+    "finnhub_raw_sym": "ALSEM.PA",
+    "description": "Semco Technologies SAS",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 640,
+    "isin": "ES0175589029",
+    "sheet_symbol": "SCO",
+    "finhub_symbol": "SCO.MC",
+    "finnhub_raw_sym": "SCO.MC",
+    "description": "Seresco SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 641,
+    "isin": "DE000A2G8X31",
+    "sheet_symbol": "SJJ",
+    "finhub_symbol": "SJJ.DE",
+    "finnhub_raw_sym": "SJJ.DE",
+    "description": "Serviceware SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 642,
+    "isin": "ES0105611000",
+    "sheet_symbol": "SNG",
+    "finhub_symbol": "SNG.MC",
+    "finnhub_raw_sym": "SNG.MC",
+    "description": "Singular People SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 643,
+    "isin": "DE000A2GS609",
+    "sheet_symbol": "SB1",
+    "finhub_symbol": "SB1.DE",
+    "finnhub_raw_sym": "SB1.DE",
+    "description": "Smartbroker Holding AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 644,
+    "isin": "DE0007203705",
+    "sheet_symbol": "SHF",
+    "finhub_symbol": "SHF.DE",
+    "finnhub_raw_sym": "SHF.DE",
+    "description": "SNP Schneider-Neureither & Partner SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 645,
+    "isin": "FR0014003AQ4",
+    "sheet_symbol": "EXPL",
+    "finhub_symbol": "EXPL.PA",
+    "finnhub_raw_sym": "EXPL.PA",
+    "description": "Soc D Explosifs Produits Chimiques SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 646,
+    "isin": "DE0005178008",
+    "sheet_symbol": "SYT",
+    "finhub_symbol": "SYT.DE",
+    "finnhub_raw_sym": "SYT.DE",
+    "description": "Softing AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 647,
+    "isin": "IT0001469953",
+    "sheet_symbol": "SFT",
+    "finhub_symbol": "SFT.MI",
+    "finnhub_raw_sym": "SFT.MI",
+    "description": "Softlab SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 648,
+    "isin": "IT0005449522",
+    "sheet_symbol": "SPN",
+    "finhub_symbol": "SPN.MI",
+    "finnhub_raw_sym": "SPN.MI",
+    "description": "Spindox SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 649,
+    "isin": "FR001400N2P2",
+    "sheet_symbol": "ALSPW",
+    "finhub_symbol": "ALSPW.PA",
+    "finnhub_raw_sym": "ALSPW.PA",
+    "description": "Spineway SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 650,
+    "isin": "AT0000A3FW25",
+    "sheet_symbol": "4X0",
+    "finhub_symbol": "4X0.DE",
+    "finnhub_raw_sym": "4X0.DE",
+    "description": "Steyr Motors AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 651,
+    "isin": "CH0008175645",
+    "sheet_symbol": "TVRB",
+    "finhub_symbol": "TVRB.PA",
+    "finnhub_raw_sym": "TVRB.PA",
+    "description": "Televerbier SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 652,
+    "isin": "DE000TKMS001",
+    "sheet_symbol": "TKMS",
+    "finhub_symbol": "TKMS.DE",
+    "finnhub_raw_sym": "TKMS.DE",
+    "description": "TKMS AG & Co KgaA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 653,
+    "isin": "IT0005531238",
+    "sheet_symbol": "TMP",
+    "finhub_symbol": "TMP.MI",
+    "finnhub_raw_sym": "TMP.MI",
+    "description": "Tmp Group SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 654,
+    "isin": "IT0005246142",
+    "sheet_symbol": "TPS",
+    "finhub_symbol": "TPS.MI",
+    "finnhub_raw_sym": "TPS.MI",
+    "description": "Technical Publications Service SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 655,
+    "isin": "FR0000035305",
+    "sheet_symbol": "ALTRA",
+    "finhub_symbol": null,
+    "found": false
+  },
+  {
+    "rowNumber": 656,
+    "isin": "IT0005651507",
+    "sheet_symbol": "TRAI",
+    "finhub_symbol": "TRAI.MI",
+    "finnhub_raw_sym": "TRAI.MI",
+    "description": "TradeLab SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 657,
+    "isin": "FR0010397901",
+    "sheet_symbol": "ALTRI",
+    "finhub_symbol": "ALTRI.PA",
+    "finnhub_raw_sym": "ALTRI.PA",
+    "description": "Trilogiq SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 658,
+    "isin": "DE0007504508",
+    "sheet_symbol": "TUR",
+    "finhub_symbol": "TUR.F",
+    "finnhub_raw_sym": "TUR.F",
+    "description": "Turbon AG",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 659,
+    "isin": "FR0010654087",
+    "sheet_symbol": "ALTXC",
+    "finhub_symbol": "ALTXC.PA",
+    "finnhub_raw_sym": "ALTXC.PA",
+    "description": "Txcom SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 660,
+    "isin": "FR0013254851",
+    "sheet_symbol": "ALVAL",
+    "finhub_symbol": "ALVAL.PA",
+    "finnhub_raw_sym": "ALVAL.PA",
+    "description": "Valbiotis SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 661,
+    "isin": "FR0010766667",
+    "sheet_symbol": "ALVU",
+    "finhub_symbol": "ALVU.PA",
+    "finnhub_raw_sym": "ALVU.PA",
+    "description": "Vente-Unique.Com SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 662,
+    "isin": "FR0010326090",
+    "sheet_symbol": "ALVIA",
+    "finhub_symbol": "ALVIA.PA",
+    "finnhub_raw_sym": "ALVIA.PA",
+    "description": "Vialife SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 663,
+    "isin": "ES0183746314",
+    "sheet_symbol": "VID",
+    "finhub_symbol": "VID.MC",
+    "finnhub_raw_sym": "VID.MC",
+    "description": "Vidrala SA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 664,
+    "isin": "IT0005652414",
+    "sheet_symbol": "VNXT",
+    "finhub_symbol": "VNXT.MI",
+    "finnhub_raw_sym": "VNXT.MI",
+    "description": "Vinext SpA",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 665,
+    "isin": "DE000WACK012",
+    "sheet_symbol": "WAC",
+    "finhub_symbol": "WAC.DE",
+    "finnhub_raw_sym": "WAC.DE",
+    "description": "Wacker Neuson SE",
+    "type": "Common Stock",
+    "found": true
+  },
+  {
+    "rowNumber": 666,
+    "isin": "IT0004171440",
+    "sheet_symbol": "ZV",
+    "finhub_symbol": "ZV.MI",
+    "finnhub_raw_sym": "ZV.MI",
+    "description": "Zignago Vetro SpA",
+    "type": "Common Stock",
+    "found": true
   }
 ]

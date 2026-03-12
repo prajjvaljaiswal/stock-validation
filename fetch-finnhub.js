@@ -16,7 +16,7 @@
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 
 const START_ROW = 0;   // inclusive, 0-based (first data row after header)
-const END_ROW   = 50;  // exclusive  → processes rows 0..49
+const END_ROW   = 700;  // exclusive  → processes rows 0..49
 
 const EXCEL_FILE  = "./volume/New stocks to be added to the universe.xlsx";
 const SHEET_NAME  = "filtered by exchange";
