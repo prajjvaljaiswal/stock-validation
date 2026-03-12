@@ -3030,5 +3030,413 @@
     "symbol": "LH",
     "is_correct": true,
     "numFound": 9
+  },
+  {
+    "rowNumber": 380,
+    "key": "NYSE~LVWR",
+    "exchange": "NYSE",
+    "symbol": "LVWR",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 381,
+    "key": "NYSE~MHO",
+    "exchange": "NYSE",
+    "symbol": "MHO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 382,
+    "key": "NYSE~MGY",
+    "exchange": "NYSE",
+    "symbol": "MGY",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 383,
+    "key": "NYSE~MANU",
+    "exchange": "NYSE",
+    "symbol": "MANU",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 384,
+    "key": "NYSE~MA",
+    "exchange": "NYSE",
+    "symbol": "MA",
+    "is_correct": true,
+    "numFound": 202
+  },
+  {
+    "rowNumber": 385,
+    "key": "NYSE~MUX",
+    "exchange": "NYSE",
+    "symbol": "MUX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 386,
+    "key": "NYSE~MNTN",
+    "exchange": "NYSE",
+    "symbol": "MNTN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 387,
+    "key": "NYSE~MCO",
+    "exchange": "NYSE",
+    "symbol": "MCO",
+    "is_correct": true,
+    "numFound": 25
+  },
+  {
+    "rowNumber": 388,
+    "key": "NYSE~NOK",
+    "exchange": "NYSE",
+    "symbol": "NOK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 389,
+    "key": "NYSE~PD",
+    "exchange": "NYSE",
+    "symbol": "PD",
+    "is_correct": true,
+    "numFound": 43
+  },
+  {
+    "rowNumber": 390,
+    "key": "NYSE~PAR",
+    "exchange": "NYSE",
+    "symbol": "PAR",
+    "is_correct": true,
+    "numFound": 65
+  },
+  {
+    "rowNumber": 391,
+    "key": "NYSE~PAY",
+    "exchange": "NYSE",
+    "symbol": "PAY",
+    "is_correct": true,
+    "numFound": 8
+  },
+  {
+    "rowNumber": 392,
+    "key": "NYSE~PXED",
+    "exchange": "NYSE",
+    "symbol": "PXED",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 393,
+    "key": "NYSE~PLNT",
+    "exchange": "NYSE",
+    "symbol": "PLNT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 394,
+    "key": "NYSE~PRIM",
+    "exchange": "NYSE",
+    "symbol": "PRIM",
+    "is_correct": true,
+    "numFound": 5
+  },
+  {
+    "rowNumber": 395,
+    "key": "NYSE~TLK",
+    "exchange": "NYSE",
+    "symbol": "TLK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 396,
+    "key": "NYSE~PRSU",
+    "exchange": "NYSE",
+    "symbol": "PRSU",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 397,
+    "key": "NYSE~QTWO",
+    "exchange": "NYSE",
+    "symbol": "QTWO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 398,
+    "key": "NYSE~Q",
+    "exchange": "NYSE",
+    "symbol": "Q",
+    "is_correct": true,
+    "numFound": 54
+  },
+  {
+    "rowNumber": 399,
+    "key": "NYSE~RAL",
+    "exchange": "NYSE",
+    "symbol": "RAL",
+    "is_correct": true,
+    "numFound": 45
+  },
+  {
+    "rowNumber": 400,
+    "key": "NYSE~RBA",
+    "exchange": "NYSE",
+    "symbol": "RBA",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 401,
+    "key": "NYSE~RTO",
+    "exchange": "NYSE",
+    "symbol": "RTO",
+    "is_correct": true,
+    "numFound": 11
+  },
+  {
+    "rowNumber": 402,
+    "key": "NYSE~RBLX",
+    "exchange": "NYSE",
+    "symbol": "RBLX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 403,
+    "key": "NYSE~SD",
+    "exchange": "NYSE",
+    "symbol": "SD",
+    "is_correct": true,
+    "numFound": 168
+  },
+  {
+    "rowNumber": 404,
+    "key": "NYSE~SDRL",
+    "exchange": "NYSE",
+    "symbol": "SDRL",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 405,
+    "key": "NYSE~SHAK",
+    "exchange": "NYSE",
+    "symbol": "SHAK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 406,
+    "key": "NYSE~SI",
+    "exchange": "NYSE",
+    "symbol": "SI",
+    "is_correct": true,
+    "numFound": 167
+  },
+  {
+    "rowNumber": 407,
+    "key": "NYSE~SNOW",
+    "exchange": "NYSE",
+    "symbol": "SNOW",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 408,
+    "key": "NYSE~SQM",
+    "exchange": "NYSE",
+    "symbol": "SQM",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 409,
+    "key": "NYSE~LUV",
+    "exchange": "NYSE",
+    "symbol": "LUV",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 410,
+    "key": "NYSE~SPB",
+    "exchange": "NYSE",
+    "symbol": "SPB",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 411,
+    "key": "NYSE~SPIR",
+    "exchange": "NYSE",
+    "symbol": "SPIR",
+    "is_correct": true,
+    "numFound": 5
+  },
+  {
+    "rowNumber": 412,
+    "key": "NYSE~SARO",
+    "exchange": "NYSE",
+    "symbol": "SARO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 413,
+    "key": "NYSE~TSM",
+    "exchange": "NYSE",
+    "symbol": "TSM",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 414,
+    "key": "NYSE~TRC",
+    "exchange": "NYSE",
+    "symbol": "TRC",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 415,
+    "key": "NYSE~TTAM",
+    "exchange": "NYSE",
+    "symbol": "TTAM",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 416,
+    "key": "NYSE~TKO",
+    "exchange": "NYSE",
+    "symbol": "TKO",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 417,
+    "key": "NYSE~TOST",
+    "exchange": "NYSE",
+    "symbol": "TOST",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 418,
+    "key": "NYSE~TGS",
+    "exchange": "NYSE",
+    "symbol": "TGS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 419,
+    "key": "NYSE~TG",
+    "exchange": "NYSE",
+    "symbol": "TG",
+    "is_correct": true,
+    "numFound": 117
+  },
+  {
+    "rowNumber": 420,
+    "key": "NYSE~UMC",
+    "exchange": "NYSE",
+    "symbol": "UMC",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 421,
+    "key": "NYSE~VALE",
+    "exchange": "NYSE",
+    "symbol": "VALE",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 422,
+    "key": "NYSE~VEEV",
+    "exchange": "NYSE",
+    "symbol": "VEEV",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 423,
+    "key": "NYSE~VIA",
+    "exchange": "NYSE",
+    "symbol": "VIA",
+    "is_correct": true,
+    "numFound": 8
+  },
+  {
+    "rowNumber": 424,
+    "key": "NYSE~VIK",
+    "exchange": "NYSE",
+    "symbol": "VIK",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 425,
+    "key": "NYSE~V",
+    "exchange": "NYSE",
+    "symbol": "V",
+    "is_correct": true,
+    "numFound": 238
+  },
+  {
+    "rowNumber": 426,
+    "key": "NYSE~VOYG",
+    "exchange": "NYSE",
+    "symbol": "VOYG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 427,
+    "key": "NYSE~WIT",
+    "exchange": "NYSE",
+    "symbol": "WIT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 428,
+    "key": "NYSE~WOLF",
+    "exchange": "NYSE",
+    "symbol": "WOLF",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 429,
+    "key": "NYSE~WDS",
+    "exchange": "NYSE",
+    "symbol": "WDS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 430,
+    "key": "NYSE~WK",
+    "exchange": "NYSE",
+    "symbol": "WK",
+    "is_correct": true,
+    "numFound": 6
   }
 ]
