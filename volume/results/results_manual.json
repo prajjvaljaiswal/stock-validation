@@ -3438,5 +3438,405 @@
     "symbol": "WK",
     "is_correct": true,
     "numFound": 6
+  },
+  {
+    "rowNumber": 431,
+    "key": "NYSE~XPO",
+    "exchange": "NYSE",
+    "symbol": "XPO",
+    "is_correct": true,
+    "numFound": 7
+  },
+  {
+    "rowNumber": 432,
+    "key": "AMEX~AGIG",
+    "exchange": "AMEX",
+    "symbol": "AGIG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 433,
+    "key": "AMEX~BMNR",
+    "exchange": "AMEX",
+    "symbol": "BMNR",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 434,
+    "key": "AMEX~BQ",
+    "exchange": "AMEX",
+    "symbol": "BQ",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 435,
+    "key": "AMEX~YCBD",
+    "exchange": "AMEX",
+    "symbol": "YCBD",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 436,
+    "key": "AMEX~CHOW",
+    "exchange": "AMEX",
+    "symbol": "CHOW",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 437,
+    "key": "AMEX~EGG",
+    "exchange": "AMEX",
+    "symbol": "EGG",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 438,
+    "key": "AMEX~EONR",
+    "exchange": "AMEX",
+    "symbol": "EONR",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 439,
+    "key": "AMEX~EXOD",
+    "exchange": "AMEX",
+    "symbol": "EXOD",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 440,
+    "key": "AMEX~CITR",
+    "exchange": "AMEX",
+    "symbol": "CITR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 441,
+    "key": "AMEX~SIM",
+    "exchange": "AMEX",
+    "symbol": "SIM",
+    "is_correct": true,
+    "numFound": 43
+  },
+  {
+    "rowNumber": 442,
+    "key": "AMEX~ROLR",
+    "exchange": "AMEX",
+    "symbol": "ROLR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 443,
+    "key": "AMEX~HWM.PR",
+    "exchange": "AMEX",
+    "symbol": "HWM.PR",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 444,
+    "key": "AMEX~IE",
+    "exchange": "AMEX",
+    "symbol": "IE",
+    "is_correct": true,
+    "numFound": 498
+  },
+  {
+    "rowNumber": 445,
+    "key": "AMEX~MCRP",
+    "exchange": "AMEX",
+    "symbol": "MCRP",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 446,
+    "key": "AMEX~MMA",
+    "exchange": "AMEX",
+    "symbol": "MMA",
+    "is_correct": true,
+    "numFound": 5
+  },
+  {
+    "rowNumber": 447,
+    "key": "AMEX~NEN",
+    "exchange": "AMEX",
+    "symbol": "NEN",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 448,
+    "key": "AMEX~NGD",
+    "exchange": "AMEX",
+    "symbol": "NGD",
+    "is_correct": true,
+    "numFound": 6
+  },
+  {
+    "rowNumber": 449,
+    "key": "AMEX~NCL",
+    "exchange": "AMEX",
+    "symbol": "NCL",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 450,
+    "key": "AMEX~NBY",
+    "exchange": "AMEX",
+    "symbol": "NBY",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 451,
+    "key": "AMEX~OBE",
+    "exchange": "AMEX",
+    "symbol": "OBE",
+    "is_correct": true,
+    "numFound": 35
+  },
+  {
+    "rowNumber": 452,
+    "key": "AMEX~PTN",
+    "exchange": "AMEX",
+    "symbol": "PTN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 453,
+    "key": "AMEX~PTHS",
+    "exchange": "AMEX",
+    "symbol": "PTHS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 454,
+    "key": "AMEX~PMI",
+    "exchange": "AMEX",
+    "symbol": "PMI",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 455,
+    "key": "AMEX~REED",
+    "exchange": "AMEX",
+    "symbol": "REED",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 456,
+    "key": "AMEX~TCGL",
+    "exchange": "AMEX",
+    "symbol": "TCGL",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 457,
+    "key": "AMEX~TGEN",
+    "exchange": "AMEX",
+    "symbol": "TGEN",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 458,
+    "key": "AMEX~MGLD",
+    "exchange": "AMEX",
+    "symbol": "MGLD",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 459,
+    "key": "AMEX~UAMY",
+    "exchange": "AMEX",
+    "symbol": "UAMY",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 460,
+    "key": "AMEX~UUU",
+    "exchange": "AMEX",
+    "symbol": "UUU",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 461,
+    "key": "AMEX~VNTG",
+    "exchange": "AMEX",
+    "symbol": "VNTG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 462,
+    "key": "AMEX~XTNT",
+    "exchange": "AMEX",
+    "symbol": "XTNT",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 463,
+    "key": "LSE~BAG",
+    "exchange": "LSE",
+    "symbol": "BAG",
+    "is_correct": true,
+    "numFound": 7
+  },
+  {
+    "rowNumber": 464,
+    "key": "LSE~AIEA",
+    "exchange": "LSE",
+    "symbol": "AIEA",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 465,
+    "key": "LSE~ALBH",
+    "exchange": "LSE",
+    "symbol": "ALBH",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 466,
+    "key": "LSE~AMCO",
+    "exchange": "LSE",
+    "symbol": "AMCO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 467,
+    "key": "LSE~ANG",
+    "exchange": "LSE",
+    "symbol": "ANG",
+    "is_correct": true,
+    "numFound": 375
+  },
+  {
+    "rowNumber": 468,
+    "key": "LSE~AOTI",
+    "exchange": "LSE",
+    "symbol": "AOTI",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 469,
+    "key": "LSE~AREC",
+    "exchange": "LSE",
+    "symbol": "AREC",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 470,
+    "key": "LSE~ATN",
+    "exchange": "LSE",
+    "symbol": "ATN",
+    "is_correct": true,
+    "numFound": 8
+  },
+  {
+    "rowNumber": 471,
+    "key": "LSE~BAB",
+    "exchange": "LSE",
+    "symbol": "BAB",
+    "is_correct": true,
+    "numFound": 109
+  },
+  {
+    "rowNumber": 472,
+    "key": "LSE~BILN",
+    "exchange": "LSE",
+    "symbol": "BILN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 473,
+    "key": "LSE~DEBS",
+    "exchange": "LSE",
+    "symbol": "DEBS",
+    "is_correct": true,
+    "numFound": 5
+  },
+  {
+    "rowNumber": 474,
+    "key": "LSE~BUC",
+    "exchange": "LSE",
+    "symbol": "BUC",
+    "is_correct": true,
+    "numFound": 15
+  },
+  {
+    "rowNumber": 475,
+    "key": "LSE~CASP",
+    "exchange": "LSE",
+    "symbol": "CASP",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 476,
+    "key": "LSE~CCPA",
+    "exchange": "LSE",
+    "symbol": "CCPA",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 477,
+    "key": "LSE~CCPC",
+    "exchange": "LSE",
+    "symbol": "CCPC",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 478,
+    "key": "LSE~CREO",
+    "exchange": "LSE",
+    "symbol": "CREO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 479,
+    "key": "LSE~TIDE",
+    "exchange": "LSE",
+    "symbol": "TIDE",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 480,
+    "key": "LSE~CSSG",
+    "exchange": "LSE",
+    "symbol": "CSSG",
+    "is_correct": true,
+    "numFound": 1
   }
 ]
