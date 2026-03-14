@@ -3838,5 +3838,405 @@
     "symbol": "CSSG",
     "is_correct": true,
     "numFound": 1
+  },
+  {
+    "rowNumber": 481,
+    "key": "LSE~EARN",
+    "exchange": "LSE",
+    "symbol": "EARN",
+    "is_correct": true,
+    "numFound": 6
+  },
+  {
+    "rowNumber": 482,
+    "key": "LSE~EAAS",
+    "exchange": "LSE",
+    "symbol": "EAAS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 483,
+    "key": "LSE~ELCO",
+    "exchange": "LSE",
+    "symbol": "ELCO",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 484,
+    "key": "LSE~ENSI",
+    "exchange": "LSE",
+    "symbol": "ENSI",
+    "is_correct": true,
+    "numFound": 17
+  },
+  {
+    "rowNumber": 485,
+    "key": "LSE~FIL",
+    "exchange": "LSE",
+    "symbol": "FIL",
+    "is_correct": true,
+    "numFound": 21
+  },
+  {
+    "rowNumber": 486,
+    "key": "LSE~FEVR",
+    "exchange": "LSE",
+    "symbol": "FEVR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 487,
+    "key": "LSE~FGP",
+    "exchange": "LSE",
+    "symbol": "FGP",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 488,
+    "key": "LSE~GAID",
+    "exchange": "LSE",
+    "symbol": "GAID",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 489,
+    "key": "LSE~GENI",
+    "exchange": "LSE",
+    "symbol": "GENI",
+    "is_correct": true,
+    "numFound": 8
+  },
+  {
+    "rowNumber": 490,
+    "key": "LSE~GETB",
+    "exchange": "LSE",
+    "symbol": "GETB",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 491,
+    "key": "LSE~GST",
+    "exchange": "LSE",
+    "symbol": "GST",
+    "is_correct": true,
+    "numFound": 27
+  },
+  {
+    "rowNumber": 492,
+    "key": "LSE~HDD",
+    "exchange": "LSE",
+    "symbol": "HDD",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 493,
+    "key": "LSE~HERC",
+    "exchange": "LSE",
+    "symbol": "HERC",
+    "is_correct": true,
+    "numFound": 4
+  },
+  {
+    "rowNumber": 494,
+    "key": "LSE~HOC",
+    "exchange": "LSE",
+    "symbol": "HOC",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 495,
+    "key": "LSE~HWDN",
+    "exchange": "LSE",
+    "symbol": "HWDN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 496,
+    "key": "LSE~HUD",
+    "exchange": "LSE",
+    "symbol": "HUD",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 497,
+    "key": "LSE~IGR",
+    "exchange": "LSE",
+    "symbol": "IGR",
+    "is_correct": true,
+    "numFound": 24579
+  },
+  {
+    "rowNumber": 498,
+    "key": "LSE~IXI",
+    "exchange": "LSE",
+    "symbol": "IXI",
+    "is_correct": true,
+    "numFound": 72
+  },
+  {
+    "rowNumber": 499,
+    "key": "LSE~KLR",
+    "exchange": "LSE",
+    "symbol": "KLR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 500,
+    "key": "LSE~LTOD",
+    "exchange": "LSE",
+    "symbol": "LTOD",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 501,
+    "key": "LSE~BTC",
+    "exchange": "LSE",
+    "symbol": "BTC",
+    "is_correct": true,
+    "numFound": 11
+  },
+  {
+    "rowNumber": 502,
+    "key": "LSE~LPA",
+    "exchange": "LSE",
+    "symbol": "LPA",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 503,
+    "key": "LSE~MEGP",
+    "exchange": "LSE",
+    "symbol": "MEGP",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 504,
+    "key": "LSE~MTL",
+    "exchange": "LSE",
+    "symbol": "MTL",
+    "is_correct": true,
+    "numFound": 8
+  },
+  {
+    "rowNumber": 505,
+    "key": "LSE~MTC",
+    "exchange": "LSE",
+    "symbol": "MTC",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 506,
+    "key": "LSE~NCC",
+    "exchange": "LSE",
+    "symbol": "NCC",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 507,
+    "key": "LSE~NXQ",
+    "exchange": "LSE",
+    "symbol": "NXQ",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 508,
+    "key": "LSE~NEXS",
+    "exchange": "LSE",
+    "symbol": "NEXS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 509,
+    "key": "LSE~NXR",
+    "exchange": "LSE",
+    "symbol": "NXR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 510,
+    "key": "LSE~NBB",
+    "exchange": "LSE",
+    "symbol": "NBB",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 511,
+    "key": "LSE~OBI",
+    "exchange": "LSE",
+    "symbol": "OBI",
+    "is_correct": true,
+    "numFound": 52
+  },
+  {
+    "rowNumber": 512,
+    "key": "LSE~OHGR",
+    "exchange": "LSE",
+    "symbol": "OHGR",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 513,
+    "key": "LSE~OPG",
+    "exchange": "LSE",
+    "symbol": "OPG",
+    "is_correct": false,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 514,
+    "key": "LSE~OXB",
+    "exchange": "LSE",
+    "symbol": "OXB",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 515,
+    "key": "LSE~PAY",
+    "exchange": "LSE",
+    "symbol": "PAY",
+    "is_correct": true,
+    "numFound": 32
+  },
+  {
+    "rowNumber": 516,
+    "key": "LSE~POW",
+    "exchange": "LSE",
+    "symbol": "POW",
+    "is_correct": true,
+    "numFound": 70
+  },
+  {
+    "rowNumber": 517,
+    "key": "LSE~PPHC",
+    "exchange": "LSE",
+    "symbol": "PPHC",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 518,
+    "key": "LSE~PULS",
+    "exchange": "LSE",
+    "symbol": "PULS",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 519,
+    "key": "LSE~RPI",
+    "exchange": "LSE",
+    "symbol": "RPI",
+    "is_correct": true,
+    "numFound": 49
+  },
+  {
+    "rowNumber": 520,
+    "key": "LSE~RIGD",
+    "exchange": "LSE",
+    "symbol": "RIGD",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 521,
+    "key": "LSE~RGG",
+    "exchange": "LSE",
+    "symbol": "RGG",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 522,
+    "key": "LSE~RTO",
+    "exchange": "LSE",
+    "symbol": "RTO",
+    "is_correct": true,
+    "numFound": 24
+  },
+  {
+    "rowNumber": 523,
+    "key": "LSE~RBN",
+    "exchange": "LSE",
+    "symbol": "RBN",
+    "is_correct": true,
+    "numFound": 9
+  },
+  {
+    "rowNumber": 524,
+    "key": "LSE~SEEN",
+    "exchange": "LSE",
+    "symbol": "SEEN",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 525,
+    "key": "LSE~SOS",
+    "exchange": "LSE",
+    "symbol": "SOS",
+    "is_correct": true,
+    "numFound": 5
+  },
+  {
+    "rowNumber": 526,
+    "key": "LSE~SPSY",
+    "exchange": "LSE",
+    "symbol": "SPSY",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 527,
+    "key": "LSE~SPR",
+    "exchange": "LSE",
+    "symbol": "SPR",
+    "is_correct": true,
+    "numFound": 29
+  },
+  {
+    "rowNumber": 528,
+    "key": "LSE~STEM",
+    "exchange": "LSE",
+    "symbol": "STEM",
+    "is_correct": true,
+    "numFound": 70
+  },
+  {
+    "rowNumber": 529,
+    "key": "LSE~SYM",
+    "exchange": "LSE",
+    "symbol": "SYM",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 530,
+    "key": "LSE~SNX",
+    "exchange": "LSE",
+    "symbol": "SNX",
+    "is_correct": true,
+    "numFound": 1
   }
 ]
