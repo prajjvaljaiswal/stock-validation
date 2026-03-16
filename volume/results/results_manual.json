@@ -4238,5 +4238,405 @@
     "symbol": "SNX",
     "is_correct": true,
     "numFound": 1
+  },
+  {
+    "rowNumber": 531,
+    "key": "LSE~SYS",
+    "exchange": "LSE",
+    "symbol": "SYS",
+    "is_correct": true,
+    "numFound": 79
+  },
+  {
+    "rowNumber": 532,
+    "key": "LSE~TENG",
+    "exchange": "LSE",
+    "symbol": "TENG",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 533,
+    "key": "LSE~TIA",
+    "exchange": "LSE",
+    "symbol": "TIA",
+    "is_correct": true,
+    "numFound": 451
+  },
+  {
+    "rowNumber": 534,
+    "key": "LSE~TIME",
+    "exchange": "LSE",
+    "symbol": "TIME",
+    "is_correct": true,
+    "numFound": 52
+  },
+  {
+    "rowNumber": 535,
+    "key": "LSE~TBLD",
+    "exchange": "LSE",
+    "symbol": "TBLD",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 536,
+    "key": "LSE~VNET",
+    "exchange": "LSE",
+    "symbol": "VNET",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 537,
+    "key": "LSE~WIX",
+    "exchange": "LSE",
+    "symbol": "WIX",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 538,
+    "key": "LSE~WYN",
+    "exchange": "LSE",
+    "symbol": "WYN",
+    "is_correct": true,
+    "numFound": 11
+  },
+  {
+    "rowNumber": 539,
+    "key": "LSE~XPS",
+    "exchange": "LSE",
+    "symbol": "XPS",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 540,
+    "key": "CHIX~3SQ1",
+    "exchange": "CHIX",
+    "symbol": "3SQ1",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 541,
+    "key": "CHIX~ABNX",
+    "exchange": "CHIX",
+    "symbol": "ABNX",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 542,
+    "key": "CHIX~ABLD",
+    "exchange": "CHIX",
+    "symbol": "ABLD",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 543,
+    "key": "CHIX~ADZ",
+    "exchange": "CHIX",
+    "symbol": "ADZ",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 544,
+    "key": "CHIX~AENA",
+    "exchange": "CHIX",
+    "symbol": "AENA",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 545,
+    "key": "CHIX~ALAGR",
+    "exchange": "CHIX",
+    "symbol": "ALAGR",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 546,
+    "key": "CHIX~ALB",
+    "exchange": "CHIX",
+    "symbol": "ALB",
+    "is_correct": false,
+    "numFound": 17
+  },
+  {
+    "rowNumber": 547,
+    "key": "CHIX~ACT",
+    "exchange": "CHIX",
+    "symbol": "ACT",
+    "is_correct": true,
+    "numFound": 266
+  },
+  {
+    "rowNumber": 548,
+    "key": "CHIX~ATSI",
+    "exchange": "CHIX",
+    "symbol": "ATSI",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 549,
+    "key": "CHIX~ALAQU",
+    "exchange": "CHIX",
+    "symbol": "ALAQU",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 550,
+    "key": "CHIX~ART",
+    "exchange": "CHIX",
+    "symbol": "ART",
+    "is_correct": true,
+    "numFound": 121
+  },
+  {
+    "rowNumber": 551,
+    "key": "CHIX~3ITN",
+    "exchange": "CHIX",
+    "symbol": "3ITN",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 552,
+    "key": "CHIX~A531",
+    "exchange": "CHIX",
+    "symbol": "A531",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 553,
+    "key": "CHIX~AV2",
+    "exchange": "CHIX",
+    "symbol": "AV2",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 554,
+    "key": "CHIX~AZK",
+    "exchange": "CHIX",
+    "symbol": "AZK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 555,
+    "key": "CHIX~BALYO",
+    "exchange": "CHIX",
+    "symbol": "BALYO",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 556,
+    "key": "CHIX~BEZ",
+    "exchange": "CHIX",
+    "symbol": "BEZ",
+    "is_correct": true,
+    "numFound": 6
+  },
+  {
+    "rowNumber": 557,
+    "key": "CHIX~BFV",
+    "exchange": "CHIX",
+    "symbol": "BFV",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 558,
+    "key": "CHIX~SPT6",
+    "exchange": "CHIX",
+    "symbol": "SPT6",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 559,
+    "key": "CHIX~8MV0",
+    "exchange": "CHIX",
+    "symbol": "8MV0",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 560,
+    "key": "CHIX~ALBOA",
+    "exchange": "CHIX",
+    "symbol": "ALBOA",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 561,
+    "key": "CHIX~BSD",
+    "exchange": "CHIX",
+    "symbol": "BSD",
+    "is_correct": true,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 562,
+    "key": "CHIX~CAP",
+    "exchange": "CHIX",
+    "symbol": "CAP",
+    "is_correct": true,
+    "numFound": 216
+  },
+  {
+    "rowNumber": 563,
+    "key": "CHIX~CTNK",
+    "exchange": "CHIX",
+    "symbol": "CTNK",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 564,
+    "key": "CHIX~CEK",
+    "exchange": "CHIX",
+    "symbol": "CEK",
+    "is_correct": true,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 565,
+    "key": "CHIX~CMTL",
+    "exchange": "CHIX",
+    "symbol": "CMTL",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 566,
+    "key": "CHIX~DIS",
+    "exchange": "CHIX",
+    "symbol": "DIS",
+    "is_correct": true,
+    "numFound": 106
+  },
+  {
+    "rowNumber": 567,
+    "key": "CHIX~DWB",
+    "exchange": "CHIX",
+    "symbol": "DWB",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 568,
+    "key": "CHIX~ALDNX",
+    "exchange": "CHIX",
+    "symbol": "ALDNX",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 569,
+    "key": "CHIX~DOT",
+    "exchange": "CHIX",
+    "symbol": "DOT",
+    "is_correct": false,
+    "numFound": 1
+  },
+  {
+    "rowNumber": 570,
+    "key": "CHIX~ALDRV",
+    "exchange": "CHIX",
+    "symbol": "ALDRV",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 571,
+    "key": "CHIX~ELB",
+    "exchange": "CHIX",
+    "symbol": "ELB",
+    "is_correct": false,
+    "numFound": 9
+  },
+  {
+    "rowNumber": 572,
+    "key": "CHIX~ENO",
+    "exchange": "CHIX",
+    "symbol": "ENO",
+    "is_correct": true,
+    "numFound": 25
+  },
+  {
+    "rowNumber": 573,
+    "key": "CHIX~ALDUB",
+    "exchange": "CHIX",
+    "symbol": "ALDUB",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 574,
+    "key": "CHIX~ET",
+    "exchange": "CHIX",
+    "symbol": "ET",
+    "is_correct": false,
+    "numFound": 5655
+  },
+  {
+    "rowNumber": 575,
+    "key": "CHIX~ALERS",
+    "exchange": "CHIX",
+    "symbol": "ALERS",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 576,
+    "key": "CHIX~FHW",
+    "exchange": "CHIX",
+    "symbol": "FHW",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 577,
+    "key": "CHIX~FRS",
+    "exchange": "CHIX",
+    "symbol": "FRS",
+    "is_correct": false,
+    "numFound": 0
+  },
+  {
+    "rowNumber": 578,
+    "key": "CHIX~FQT",
+    "exchange": "CHIX",
+    "symbol": "FQT",
+    "is_correct": true,
+    "numFound": 2
+  },
+  {
+    "rowNumber": 579,
+    "key": "CHIX~NLM",
+    "exchange": "CHIX",
+    "symbol": "NLM",
+    "is_correct": false,
+    "numFound": 3
+  },
+  {
+    "rowNumber": 580,
+    "key": "CHIX~FEW0",
+    "exchange": "CHIX",
+    "symbol": "FEW0",
+    "is_correct": false,
+    "numFound": 0
   }
 ]
