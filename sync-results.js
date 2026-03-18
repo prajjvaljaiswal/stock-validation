@@ -18,8 +18,8 @@ const XLSX = require("xlsx");
 const EXCEL_FILE    = "./volume/New stocks to be added to the universe.xlsx";
 const SHEET_NAME    = "filtered by exchange";
 const JSON_FILE     = "./volume/results/results_manual.json";
-// const FINNHUB_FILE  = "./volume/results/finnhub_manual.json";
-const FINNHUB_FILE = null;
+const FINNHUB_FILE  = "./volume/results/finnhub_manual.json";
+// const FINNHUB_FILE = null;
 const OUTPUT_FILE   = "./volume/output_manual.xlsx";
 
 function log(level, message) {
